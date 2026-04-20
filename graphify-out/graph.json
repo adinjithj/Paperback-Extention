@@ -25,8 +25,12 @@
       "19": "Community 19",
       "20": "Community 20",
       "21": "Community 21",
+<<<<<<< HEAD
       "22": "Community 22",
       "23": "Community 23"
+=======
+      "22": "Community 22"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     }
   },
   "nodes": [
@@ -108,8 +112,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2089",
+<<<<<<< HEAD
       "community": 22,
       "community_name": "Community 22"
+=======
+      "community": 21,
+      "community_name": "Community 21"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_tracker_constructor",
@@ -117,8 +126,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2090",
+<<<<<<< HEAD
       "community": 22,
       "community_name": "Community 22"
+=======
+      "community": 21,
+      "community_name": "Community 21"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_buildsearchurl",
@@ -360,8 +374,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2089",
+<<<<<<< HEAD
       "community": 23,
       "community_name": "Community 23"
+=======
+      "community": 22,
+      "community_name": "Community 22"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_tracker_constructor",
@@ -369,8 +388,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2090",
+<<<<<<< HEAD
       "community": 23,
       "community_name": "Community 23"
+=======
+      "community": 22,
+      "community_name": "Community 22"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_buildsearchurl",
@@ -540,8 +564,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L23",
+<<<<<<< HEAD
       "community": 14,
       "community_name": "Community 14"
+=======
+      "community": 13,
+      "community_name": "Community 13"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_bytelength",
@@ -549,8 +578,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L43",
+<<<<<<< HEAD
       "community": 14,
       "community_name": "Community 14"
+=======
+      "community": 13,
+      "community_name": "Community 13"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_tobytearray",
@@ -558,8 +592,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L54",
+<<<<<<< HEAD
       "community": 14,
       "community_name": "Community 14"
+=======
+      "community": 13,
+      "community_name": "Community 13"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_triplettobase64",
@@ -729,8 +768,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L836",
+<<<<<<< HEAD
       "community": 18,
       "community_name": "Community 18"
+=======
+      "community": 17,
+      "community_name": "Community 17"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_arrayindexof",
@@ -738,8 +782,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L892",
+<<<<<<< HEAD
       "community": 18,
       "community_name": "Community 18"
+=======
+      "community": 17,
+      "community_name": "Community 17"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_hexwrite",
@@ -747,8 +796,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L960",
+<<<<<<< HEAD
       "community": 18,
       "community_name": "Community 18"
+=======
+      "community": 17,
+      "community_name": "Community 17"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_utf8write",
@@ -909,8 +963,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L1784",
+<<<<<<< HEAD
       "community": 14,
       "community_name": "Community 14"
+=======
+      "community": 13,
+      "community_name": "Community 13"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_tohex",
@@ -954,8 +1013,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L1908",
+<<<<<<< HEAD
       "community": 14,
       "community_name": "Community 14"
+=======
+      "community": 13,
+      "community_name": "Community 13"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_blitbuffer",
@@ -972,8 +1036,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L1923",
+<<<<<<< HEAD
       "community": 14,
       "community_name": "Community 14"
+=======
+      "community": 13,
+      "community_name": "Community 13"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_numberisnan",
@@ -981,8 +1050,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L1928",
+<<<<<<< HEAD
       "community": 18,
       "community_name": "Community 18"
+=======
+      "community": 17,
+      "community_name": "Community 17"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_getserverunavailablemangatiles",
@@ -1044,8 +1118,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2515",
+<<<<<<< HEAD
       "community": 15,
       "community_name": "Community 15"
+=======
+      "community": 14,
+      "community_name": "Community 14"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_setkomgaserveraddress",
@@ -1053,8 +1132,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2521",
+<<<<<<< HEAD
       "community": 15,
       "community_name": "Community 15"
+=======
+      "community": 14,
+      "community_name": "Community 14"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_setcredentials",
@@ -1062,8 +1146,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2525",
+<<<<<<< HEAD
       "community": 15,
       "community_name": "Community 15"
+=======
+      "community": 14,
+      "community_name": "Community 14"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_setoptions",
@@ -1071,8 +1160,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2530",
+<<<<<<< HEAD
       "community": 15,
       "community_name": "Community 15"
+=======
+      "community": 14,
+      "community_name": "Community 14"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_createauthorizationstring",
@@ -1080,8 +1174,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2535",
+<<<<<<< HEAD
       "community": 15,
       "community_name": "Community 15"
+=======
+      "community": 14,
+      "community_name": "Community 14"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_createkomgaapi",
@@ -1089,8 +1188,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2538",
+<<<<<<< HEAD
       "community": 15,
       "community_name": "Community 15"
+=======
+      "community": 14,
+      "community_name": "Community 14"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_parsemangastatus",
@@ -1116,8 +1220,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2664",
+<<<<<<< HEAD
       "community": 20,
       "community_name": "Community 20"
+=======
+      "community": 19,
+      "community_name": "Community 19"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_komgarequestinterceptor_constructor",
@@ -1125,8 +1234,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2665",
+<<<<<<< HEAD
       "community": 20,
       "community_name": "Community 20"
+=======
+      "community": 19,
+      "community_name": "Community 19"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_komgarequestinterceptor_interceptresponse",
@@ -1134,8 +1248,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2668",
+<<<<<<< HEAD
       "community": 20,
       "community_name": "Community 20"
+=======
+      "community": 19,
+      "community_name": "Community 19"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_komgarequestinterceptor_interceptrequest",
@@ -1143,8 +1262,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2671",
+<<<<<<< HEAD
       "community": 20,
       "community_name": "Community 20"
+=======
+      "community": 19,
+      "community_name": "Community 19"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_paperback",
@@ -1287,8 +1411,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L23",
+<<<<<<< HEAD
       "community": 16,
       "community_name": "Community 16"
+=======
+      "community": 15,
+      "community_name": "Community 15"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_bytelength",
@@ -1296,8 +1425,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L43",
+<<<<<<< HEAD
       "community": 16,
       "community_name": "Community 16"
+=======
+      "community": 15,
+      "community_name": "Community 15"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_tobytearray",
@@ -1305,8 +1439,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L54",
+<<<<<<< HEAD
       "community": 16,
       "community_name": "Community 16"
+=======
+      "community": 15,
+      "community_name": "Community 15"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_triplettobase64",
@@ -1476,8 +1615,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L836",
+<<<<<<< HEAD
       "community": 19,
       "community_name": "Community 19"
+=======
+      "community": 18,
+      "community_name": "Community 18"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_arrayindexof",
@@ -1485,8 +1629,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L892",
+<<<<<<< HEAD
       "community": 19,
       "community_name": "Community 19"
+=======
+      "community": 18,
+      "community_name": "Community 18"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_hexwrite",
@@ -1494,8 +1643,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L960",
+<<<<<<< HEAD
       "community": 19,
       "community_name": "Community 19"
+=======
+      "community": 18,
+      "community_name": "Community 18"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_utf8write",
@@ -1656,8 +1810,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L1784",
+<<<<<<< HEAD
       "community": 16,
       "community_name": "Community 16"
+=======
+      "community": 15,
+      "community_name": "Community 15"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_tohex",
@@ -1701,8 +1860,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L1908",
+<<<<<<< HEAD
       "community": 16,
       "community_name": "Community 16"
+=======
+      "community": 15,
+      "community_name": "Community 15"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_blitbuffer",
@@ -1719,8 +1883,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L1923",
+<<<<<<< HEAD
       "community": 16,
       "community_name": "Community 16"
+=======
+      "community": 15,
+      "community_name": "Community 15"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_numberisnan",
@@ -1728,8 +1897,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L1928",
+<<<<<<< HEAD
       "community": 19,
       "community_name": "Community 19"
+=======
+      "community": 18,
+      "community_name": "Community 18"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_getserverunavailablemangatiles",
@@ -1791,8 +1965,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2515",
+<<<<<<< HEAD
       "community": 17,
       "community_name": "Community 17"
+=======
+      "community": 16,
+      "community_name": "Community 16"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_setkomgaserveraddress",
@@ -1800,8 +1979,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2521",
+<<<<<<< HEAD
       "community": 17,
       "community_name": "Community 17"
+=======
+      "community": 16,
+      "community_name": "Community 16"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_setcredentials",
@@ -1809,8 +1993,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2525",
+<<<<<<< HEAD
       "community": 17,
       "community_name": "Community 17"
+=======
+      "community": 16,
+      "community_name": "Community 16"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_setoptions",
@@ -1818,8 +2007,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2530",
+<<<<<<< HEAD
       "community": 17,
       "community_name": "Community 17"
+=======
+      "community": 16,
+      "community_name": "Community 16"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_createauthorizationstring",
@@ -1827,8 +2021,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2535",
+<<<<<<< HEAD
       "community": 17,
       "community_name": "Community 17"
+=======
+      "community": 16,
+      "community_name": "Community 16"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_createkomgaapi",
@@ -1836,8 +2035,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2538",
+<<<<<<< HEAD
       "community": 17,
       "community_name": "Community 17"
+=======
+      "community": 16,
+      "community_name": "Community 16"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_parsemangastatus",
@@ -1863,8 +2067,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2664",
+<<<<<<< HEAD
       "community": 21,
       "community_name": "Community 21"
+=======
+      "community": 20,
+      "community_name": "Community 20"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_komgarequestinterceptor_constructor",
@@ -1872,8 +2081,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2665",
+<<<<<<< HEAD
       "community": 21,
       "community_name": "Community 21"
+=======
+      "community": 20,
+      "community_name": "Community 20"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_komgarequestinterceptor_interceptresponse",
@@ -1881,8 +2095,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2668",
+<<<<<<< HEAD
       "community": 21,
       "community_name": "Community 21"
+=======
+      "community": 20,
+      "community_name": "Community 20"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_komgarequestinterceptor_interceptrequest",
@@ -1890,8 +2109,13 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2671",
+<<<<<<< HEAD
       "community": 21,
       "community_name": "Community 21"
+=======
+      "community": 20,
+      "community_name": "Community 20"
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_paperback",
@@ -2050,8 +2274,13 @@
       "id": "common_buildmangaurl",
       "label": "buildMangaUrl()",
       "file_type": "code",
+<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
       "source_location": "L8",
+=======
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
+      "source_location": "L10",
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
       "community": 5,
       "community_name": "Community 5"
     },
@@ -2059,8 +2288,13 @@
       "id": "common_normalizeurl",
       "label": "normalizeUrl()",
       "file_type": "code",
+<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
       "source_location": "L12",
+=======
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
+      "source_location": "L19",
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
       "community": 5,
       "community_name": "Community 5"
     },
@@ -2086,8 +2320,13 @@
       "id": "common_extracttext",
       "label": "extractText()",
       "file_type": "code",
+<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
       "source_location": "L37",
+=======
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
+      "source_location": "L85",
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
       "community": 5,
       "community_name": "Community 5"
     },
@@ -2122,8 +2361,13 @@
       "id": "languages_parselangcode",
       "label": "parseLangCode()",
       "file_type": "code",
+<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Languages.ts",
       "source_location": "L3",
+=======
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Languages.ts",
+      "source_location": "L45",
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
       "community": 10,
       "community_name": "Community 10"
     },
@@ -6880,8 +7124,13 @@
       "target": "common_buildmangaurl",
       "relation": "contains",
       "confidence": "EXTRACTED",
+<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
       "source_location": "L8",
+=======
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
+      "source_location": "L10",
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
       "weight": 1,
       "_src": "common",
       "_tgt": "common_buildmangaurl",
@@ -6892,8 +7141,13 @@
       "target": "common_normalizeurl",
       "relation": "contains",
       "confidence": "EXTRACTED",
+<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
       "source_location": "L12",
+=======
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
+      "source_location": "L19",
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
       "weight": 1,
       "_src": "common",
       "_tgt": "common_normalizeurl",
@@ -6928,8 +7182,13 @@
       "target": "common_extracttext",
       "relation": "contains",
       "confidence": "EXTRACTED",
+<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
       "source_location": "L37",
+=======
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
+      "source_location": "L85",
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
       "weight": 1,
       "_src": "common",
       "_tgt": "common_extracttext",
@@ -7596,6 +7855,7 @@
       "confidence_score": 1
     },
     {
+<<<<<<< HEAD
       "source": "weebcentral",
       "target": "weebcentral_parsemangadetails",
       "relation": "contains",
@@ -7704,6 +7964,8 @@
       "confidence_score": 1
     },
     {
+=======
+>>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
       "source": "common_buildmangaurl",
       "target": "common_normalizemangaid",
       "relation": "calls",
