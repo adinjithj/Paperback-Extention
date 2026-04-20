@@ -19,8 +19,152 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Common.ts",
       "source_location": "L1",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "common_buildsearchurl",
+      "label": "buildSearchUrl()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
+      "source_location": "L4",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "languages",
+      "label": "Languages.ts",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Languages.ts",
+      "source_location": "L1",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "languages_parselangcode",
+      "label": "parseLangCode()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Languages.ts",
+      "source_location": "L45",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "mangafreak",
+      "label": "MangaFreak.ts",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L1",
       "community": 2,
       "community_name": "Community 2"
+    },
+    {
+      "id": "mangafreak_normalizeurl",
+      "label": "normalizeUrl()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L31",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "mangafreak_normalizemangaid",
+      "label": "normalizeMangaId()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L48",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "mangafreak_mangafreak",
+      "label": "MangaFreak",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L74",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "mangafreak_mangafreak_constructor",
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\lib\\MangaFreak\\MangaFreak.js",
+      "source_location": "L60",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "mangafreak_mangafreak_getmangadetails",
+      "label": ".getMangaDetails()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L80",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "mangafreak_mangafreak_getchapters",
+      "label": ".getChapters()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L86",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "mangafreak_mangafreak_getchapterdetails",
+      "label": ".getChapterDetails()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L92",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "mangafreak_mangafreak_getsearchresults",
+      "label": ".getSearchResults()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L101",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "settings",
+      "label": "Settings.ts",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
+      "source_location": "L1",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "settings_serversettingsmenu",
+      "label": "serverSettingsMenu()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
+      "source_location": "L65",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "settings_testserversettingsmenu",
+      "label": "testServerSettingsMenu()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
+      "source_location": "L145",
+      "community": 4,
+      "community_name": "Community 4"
+    },
+    {
+      "id": "settings_resetsettingsbutton",
+      "label": "resetSettingsButton()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
+      "source_location": "L173",
+      "community": 4,
+      "community_name": "Community 4"
     },
     {
       "id": "common_getserverunavailablemangatiles",
@@ -28,8 +172,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Common.ts",
       "source_location": "L9",
-      "community": 2,
-      "community_name": "Community 2"
+      "community": 3,
+      "community_name": "Community 3"
     },
     {
       "id": "common_searchrequest",
@@ -37,8 +181,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Common.ts",
       "source_location": "L21",
-      "community": 2,
-      "community_name": "Community 2"
+      "community": 3,
+      "community_name": "Community 3"
     },
     {
       "id": "common_getauthorizationstring",
@@ -46,8 +190,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Common.ts",
       "source_location": "L129",
-      "community": 2,
-      "community_name": "Community 2"
+      "community": 3,
+      "community_name": "Community 3"
     },
     {
       "id": "common_getkomgaapi",
@@ -55,8 +199,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Common.ts",
       "source_location": "L133",
-      "community": 2,
-      "community_name": "Community 2"
+      "community": 3,
+      "community_name": "Community 3"
     },
     {
       "id": "common_getoptions",
@@ -64,8 +208,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Common.ts",
       "source_location": "L137",
-      "community": 2,
-      "community_name": "Community 2"
+      "community": 3,
+      "community_name": "Community 3"
     },
     {
       "id": "common_retrievestatedata",
@@ -73,8 +217,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Common.ts",
       "source_location": "L145",
-      "community": 2,
-      "community_name": "Community 2"
+      "community": 3,
+      "community_name": "Community 3"
     },
     {
       "id": "common_setstatedata",
@@ -82,8 +226,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Common.ts",
       "source_location": "L159",
-      "community": 4,
-      "community_name": "Community 4"
+      "community": 5,
+      "community_name": "Community 5"
     },
     {
       "id": "common_setkomgaserveraddress",
@@ -91,8 +235,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Common.ts",
       "source_location": "L177",
-      "community": 4,
-      "community_name": "Community 4"
+      "community": 6,
+      "community_name": "Community 6"
     },
     {
       "id": "common_setcredentials",
@@ -109,8 +253,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Common.ts",
       "source_location": "L188",
-      "community": 4,
-      "community_name": "Community 4"
+      "community": 5,
+      "community_name": "Community 5"
     },
     {
       "id": "common_createauthorizationstring",
@@ -127,26 +271,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Common.ts",
       "source_location": "L198",
-      "community": 4,
-      "community_name": "Community 4"
-    },
-    {
-      "id": "languages",
-      "label": "Languages.ts",
-      "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Languages.ts",
-      "source_location": "L1",
-      "community": 1,
-      "community_name": "Community 1"
-    },
-    {
-      "id": "languages_parselangcode",
-      "label": "parseLangCode()",
-      "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Languages.ts",
-      "source_location": "L45",
-      "community": 1,
-      "community_name": "Community 1"
+      "community": 6,
+      "community_name": "Community 6"
     },
     {
       "id": "paperback",
@@ -154,8 +280,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L1",
-      "community": 1,
-      "community_name": "Community 1"
+      "community": 0,
+      "community_name": "Community 0"
     },
     {
       "id": "paperback_parsemangastatus",
@@ -163,8 +289,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L80",
-      "community": 6,
-      "community_name": "Community 6"
+      "community": 0,
+      "community_name": "Community 0"
     },
     {
       "id": "paperback_capitalize",
@@ -172,8 +298,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L94",
-      "community": 1,
-      "community_name": "Community 1"
+      "community": 0,
+      "community_name": "Community 0"
     },
     {
       "id": "paperback_komgarequestinterceptor",
@@ -181,8 +307,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L98",
-      "community": 1,
-      "community_name": "Community 1"
+      "community": 0,
+      "community_name": "Community 0"
     },
     {
       "id": "paperback_komgarequestinterceptor_constructor",
@@ -190,8 +316,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L107",
-      "community": 1,
-      "community_name": "Community 1"
+      "community": 0,
+      "community_name": "Community 0"
     },
     {
       "id": "paperback_komgarequestinterceptor_interceptresponse",
@@ -199,8 +325,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L111",
-      "community": 1,
-      "community_name": "Community 1"
+      "community": 0,
+      "community_name": "Community 0"
     },
     {
       "id": "paperback_komgarequestinterceptor_interceptrequest",
@@ -208,8 +334,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L115",
-      "community": 1,
-      "community_name": "Community 1"
+      "community": 0,
+      "community_name": "Community 0"
     },
     {
       "id": "paperback_paperback",
@@ -217,8 +343,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L149",
-      "community": 0,
-      "community_name": "Community 0"
+      "community": 1,
+      "community_name": "Community 1"
     },
     {
       "id": "paperback_paperback_constructor",
@@ -226,8 +352,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\lib\\Paperback\\Paperback.js",
       "source_location": "L96",
-      "community": 0,
-      "community_name": "Community 0"
+      "community": 1,
+      "community_name": "Community 1"
     },
     {
       "id": "paperback_paperback_getsourcemenu",
@@ -235,8 +361,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L158",
-      "community": 0,
-      "community_name": "Community 0"
+      "community": 1,
+      "community_name": "Community 1"
     },
     {
       "id": "paperback_paperback_gettags",
@@ -244,8 +370,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L170",
-      "community": 0,
-      "community_name": "Community 0"
+      "community": 1,
+      "community_name": "Community 1"
     },
     {
       "id": "paperback_paperback_getmangadetails",
@@ -253,8 +379,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L269",
-      "community": 6,
-      "community_name": "Community 6"
+      "community": 0,
+      "community_name": "Community 0"
     },
     {
       "id": "paperback_paperback_getchapters",
@@ -262,8 +388,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L331",
-      "community": 0,
-      "community_name": "Community 0"
+      "community": 1,
+      "community_name": "Community 1"
     },
     {
       "id": "paperback_paperback_getchapterdetails",
@@ -271,8 +397,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L382",
-      "community": 0,
-      "community_name": "Community 0"
+      "community": 1,
+      "community_name": "Community 1"
     },
     {
       "id": "paperback_paperback_getsearchresults",
@@ -280,8 +406,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L435",
-      "community": 0,
-      "community_name": "Community 0"
+      "community": 1,
+      "community_name": "Community 1"
     },
     {
       "id": "paperback_paperback_gethomepagesections",
@@ -289,8 +415,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L450",
-      "community": 0,
-      "community_name": "Community 0"
+      "community": 1,
+      "community_name": "Community 1"
     },
     {
       "id": "paperback_paperback_getviewmoreitems",
@@ -298,8 +424,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L564",
-      "community": 0,
-      "community_name": "Community 0"
+      "community": 1,
+      "community_name": "Community 1"
     },
     {
       "id": "paperback_paperback_filterupdatedmanga",
@@ -307,17 +433,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Paperback.ts",
       "source_location": "L601",
-      "community": 0,
-      "community_name": "Community 0"
-    },
-    {
-      "id": "settings",
-      "label": "Settings.ts",
-      "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
-      "source_location": "L1",
-      "community": 3,
-      "community_name": "Community 3"
+      "community": 1,
+      "community_name": "Community 1"
     },
     {
       "id": "settings_testserversettings",
@@ -325,38 +442,167 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
       "source_location": "L16",
-      "community": 3,
-      "community_name": "Community 3"
-    },
-    {
-      "id": "settings_serversettingsmenu",
-      "label": "serverSettingsMenu()",
-      "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
-      "source_location": "L65",
-      "community": 3,
-      "community_name": "Community 3"
-    },
-    {
-      "id": "settings_testserversettingsmenu",
-      "label": "testServerSettingsMenu()",
-      "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
-      "source_location": "L145",
-      "community": 3,
-      "community_name": "Community 3"
-    },
-    {
-      "id": "settings_resetsettingsbutton",
-      "label": "resetSettingsButton()",
-      "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
-      "source_location": "L173",
-      "community": 3,
-      "community_name": "Community 3"
+      "community": 4,
+      "community_name": "Community 4"
     }
   ],
   "links": [
+    {
+      "source": "common",
+      "target": "common_buildsearchurl",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
+      "source_location": "L4",
+      "weight": 1,
+      "_src": "common",
+      "_tgt": "common_buildsearchurl",
+      "confidence_score": 1
+    },
+    {
+      "source": "languages",
+      "target": "languages_parselangcode",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Languages.ts",
+      "source_location": "L45",
+      "weight": 1,
+      "_src": "languages",
+      "_tgt": "languages_parselangcode",
+      "confidence_score": 1
+    },
+    {
+      "source": "mangafreak",
+      "target": "mangafreak_normalizeurl",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L31",
+      "weight": 1,
+      "_src": "mangafreak",
+      "_tgt": "mangafreak_normalizeurl",
+      "confidence_score": 1
+    },
+    {
+      "source": "mangafreak",
+      "target": "mangafreak_normalizemangaid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L48",
+      "weight": 1,
+      "_src": "mangafreak",
+      "_tgt": "mangafreak_normalizemangaid",
+      "confidence_score": 1
+    },
+    {
+      "source": "mangafreak",
+      "target": "mangafreak_mangafreak",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L74",
+      "weight": 1,
+      "_src": "mangafreak",
+      "_tgt": "mangafreak_mangafreak",
+      "confidence_score": 1
+    },
+    {
+      "source": "mangafreak_mangafreak",
+      "target": "mangafreak_mangafreak_constructor",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\lib\\MangaFreak\\MangaFreak.js",
+      "source_location": "L60",
+      "weight": 1,
+      "_src": "mangafreak_mangafreak",
+      "_tgt": "mangafreak_mangafreak_constructor",
+      "confidence_score": 1
+    },
+    {
+      "source": "mangafreak_mangafreak",
+      "target": "mangafreak_mangafreak_getmangadetails",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L80",
+      "weight": 1,
+      "_src": "mangafreak_mangafreak",
+      "_tgt": "mangafreak_mangafreak_getmangadetails",
+      "confidence_score": 1
+    },
+    {
+      "source": "mangafreak_mangafreak",
+      "target": "mangafreak_mangafreak_getchapters",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L86",
+      "weight": 1,
+      "_src": "mangafreak_mangafreak",
+      "_tgt": "mangafreak_mangafreak_getchapters",
+      "confidence_score": 1
+    },
+    {
+      "source": "mangafreak_mangafreak",
+      "target": "mangafreak_mangafreak_getchapterdetails",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L92",
+      "weight": 1,
+      "_src": "mangafreak_mangafreak",
+      "_tgt": "mangafreak_mangafreak_getchapterdetails",
+      "confidence_score": 1
+    },
+    {
+      "source": "mangafreak_mangafreak",
+      "target": "mangafreak_mangafreak_getsearchresults",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L101",
+      "weight": 1,
+      "_src": "mangafreak_mangafreak",
+      "_tgt": "mangafreak_mangafreak_getsearchresults",
+      "confidence_score": 1
+    },
+    {
+      "source": "settings",
+      "target": "settings_serversettingsmenu",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
+      "source_location": "L65",
+      "weight": 1,
+      "_src": "settings",
+      "_tgt": "settings_serversettingsmenu",
+      "confidence_score": 1
+    },
+    {
+      "source": "settings",
+      "target": "settings_testserversettingsmenu",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
+      "source_location": "L145",
+      "weight": 1,
+      "_src": "settings",
+      "_tgt": "settings_testserversettingsmenu",
+      "confidence_score": 1
+    },
+    {
+      "source": "settings",
+      "target": "settings_resetsettingsbutton",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
+      "source_location": "L173",
+      "weight": 1,
+      "_src": "settings",
+      "_tgt": "settings_resetsettingsbutton",
+      "confidence_score": 1
+    },
     {
       "source": "common",
       "target": "common_getserverunavailablemangatiles",
@@ -598,18 +844,6 @@
       "confidence_score": 1
     },
     {
-      "source": "languages",
-      "target": "languages_parselangcode",
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Languages.ts",
-      "source_location": "L45",
-      "weight": 1,
-      "_src": "languages",
-      "_tgt": "languages_parselangcode",
-      "confidence_score": 1
-    },
-    {
       "source": "paperback",
       "target": "paperback_parsemangastatus",
       "relation": "contains",
@@ -826,39 +1060,15 @@
       "confidence_score": 1
     },
     {
-      "source": "settings",
-      "target": "settings_serversettingsmenu",
-      "relation": "contains",
+      "source": "mangafreak",
+      "target": "common",
+      "relation": "imports_from",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
-      "source_location": "L65",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
+      "source_location": "L13",
       "weight": 1,
-      "_src": "settings",
-      "_tgt": "settings_serversettingsmenu",
-      "confidence_score": 1
-    },
-    {
-      "source": "settings",
-      "target": "settings_testserversettingsmenu",
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
-      "source_location": "L145",
-      "weight": 1,
-      "_src": "settings",
-      "_tgt": "settings_testserversettingsmenu",
-      "confidence_score": 1
-    },
-    {
-      "source": "settings",
-      "target": "settings_resetsettingsbutton",
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Settings.ts",
-      "source_location": "L173",
-      "weight": 1,
-      "_src": "settings",
-      "_tgt": "settings_resetsettingsbutton",
+      "_src": "mangafreak",
+      "_tgt": "common",
       "confidence_score": 1
     },
     {
