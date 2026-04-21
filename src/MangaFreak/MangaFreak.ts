@@ -11,7 +11,6 @@ import {
     SearchRequest,
     Source,
     SourceInfo,
-    TagType,
 } from "paperback-extensions-common";
 import { parseLangCode } from "./Languages";
 import {
@@ -28,19 +27,14 @@ import {
 
 
 export const MangaFreakInfo: SourceInfo = {
-    version: "1.0.13",
+    version: "1.0.15",
     name: "MangaFreak",
     icon: "icon.png",
     author: "OpenCode",
-    description: "MangaFreak search source",
+    description: "MangaFreak extension",
     contentRating: ContentRating.MATURE,
     websiteBaseURL: WEBSITE_BASE_URL,
-    sourceTags: [
-        {
-            text: "Search only",
-            type: TagType.YELLOW,
-        },
-    ],
+    sourceTags: [],
 };
 
 const parseMangaDetails = ($: CheerioAPI, mangaId: string): Manga => {
@@ -175,7 +169,7 @@ const parseChapterList = ($: CheerioAPI, mangaId: string): Chapter[] => {
 export class MangaFreak extends Source {
     override requestManager = createRequestManager({
         requestsPerSecond: 2,
-        requestTimeout: 20000,
+        requestTimeout: 10000,
     });
 
     override async getMangaDetails(mangaId: string): Promise<Manga> {
@@ -183,10 +177,15 @@ export class MangaFreak extends Source {
             url: buildMangaUrl(mangaId),
             method: "GET",
         });
-        const response = await this.requestManager.schedule(request, 1);
-        const html = typeof response.data === "string" ? response.data : "";
-        const $ = this.cheerio.load(html);
-        return parseMangaDetails($, mangaId);
+        try {
+            const response = await this.requestManager.schedule(request, 1);
+            const html = typeof response.data === "string" ? response.data : "";
+            const $ = this.cheerio.load(html);
+            return parseMangaDetails($, mangaId);
+        } catch (e) {
+            console.error(`MangaFreak getMangaDetails failed: ${e}`);
+            throw e;
+        }
     }
 
     override async getChapters(mangaId: string): Promise<Chapter[]> {
@@ -194,19 +193,100 @@ export class MangaFreak extends Source {
             url: buildMangaUrl(mangaId),
             method: "GET",
         });
-        const response = await this.requestManager.schedule(request, 1);
-        const html = typeof response.data === "string" ? response.data : "";
-        const $ = this.cheerio.load(html);
-        return parseChapterList($, mangaId);
+        try {
+            const response = await this.requestManager.schedule(request, 1);
+            const html = typeof response.data === "string" ? response.data : "";
+            const $ = this.cheerio.load(html);
+            return parseChapterList($, mangaId);
+        } catch (e) {
+            console.error(`MangaFreak getChapters failed: ${e}`);
+            return [];
+        }
     }
 
     override async getChapterDetails(
         mangaId: string,
         chapterId: string
     ): Promise<ChapterDetails> {
-        throw new Error(
-            `MangaFreak is search-only. Chapter details unavailable for ${mangaId}/${chapterId}.`
-        );
+        try {
+            const request = createRequestObject({
+                url: new URL(chapterId, WEBSITE_BASE_URL).toString(),
+                method: "GET",
+            });
+            const response = await this.requestManager.schedule(request, 1);
+            const html = typeof response.data === "string" ? response.data : "";
+            const $ = this.cheerio.load(html);
+
+            const pages: string[] = [];
+            const selectors = [
+                ".manga_read_card img",
+                ".read-container img",
+                ".read_img img",
+                ".read_image img",
+                ".mySlides img",
+                ".image_orientation img",
+                "#reader_area img",
+                "img.my-img",
+                "img#gohere",
+            ];
+
+            for (const selector of selectors) {
+                $(selector).each((_, element) => {
+                    const img = $(element);
+                    const src = img.attr("data-src") ?? img.attr("src");
+                    const normalized = normalizeUrl(src);
+                    if (normalized && !pages.includes(normalized)) {
+                        pages.push(normalized);
+                    }
+                });
+                if (pages.length > 0) break;
+            }
+
+            // Fallback: search for gImages in scripts
+            if (pages.length === 0) {
+                $("script").each((_, element) => {
+                    const text = $(element).text();
+                    const match = text.match(/var gImages = \[(.*?)\];/);
+                    if (match?.[1]) {
+                        const urls = match[1]
+                            .split(",")
+                            .map((s) => s.trim().replace(/^['"]|['"]$/g, ""));
+                        for (const url of urls) {
+                            const normalized = normalizeUrl(url);
+                            if (normalized && !pages.includes(normalized)) {
+                                pages.push(normalized);
+                            }
+                        }
+                    }
+                });
+            }
+
+            // Fallback: collect direct image URLs from chapter HTML
+            if (pages.length === 0) {
+                const matches = html.match(/https?:\/\/[^"'\s>]+\.(?:jpg|jpeg|png|webp)/gi) ?? [];
+                for (const url of matches) {
+                    const normalized = normalizeUrl(url);
+                    if (
+                        normalized &&
+                        normalized.includes("/mangas/") &&
+                        !normalized.includes("/manga_images/") &&
+                        !pages.includes(normalized)
+                    ) {
+                        pages.push(normalized);
+                    }
+                }
+            }
+
+            return createChapterDetails({
+                id: chapterId,
+                mangaId,
+                pages,
+                longStrip: false,
+            });
+        } catch (e) {
+            console.error(`MangaFreak getChapterDetails failed: ${e}`);
+            throw e;
+        }
     }
 
     override async getSearchResults(
@@ -315,7 +395,8 @@ export class MangaFreak extends Source {
                 results: tiles,
                 metadata: nextPage,
             });
-        } catch {
+        } catch (e) {
+            console.error(`MangaFreak getSearchResults failed: ${e}`);
             return createPagedResults({ results: [] });
         }
     }
@@ -323,16 +404,13 @@ export class MangaFreak extends Source {
     override async getHomePageSections(
         sectionCallback: (section: HomeSection) => void
     ): Promise<void> {
-        try {
-            const section = createHomeSection({
+        sectionCallback(
+            createHomeSection({
                 id: "empty",
                 title: "",
                 view_more: false,
                 items: [],
-            });
-            sectionCallback(section);
-        } catch {
-            return;
-        }
+            })
+        );
     }
 }

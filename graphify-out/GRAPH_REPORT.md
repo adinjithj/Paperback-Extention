@@ -1,30 +1,18 @@
-# Graph Report - .  (2026-04-20)
+# Graph Report - .  (2026-04-21)
 
 ## Corpus Check
-<<<<<<< HEAD
-- 28 files · ~0 words
+- 30 files · ~0 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 287 nodes · 433 edges · 24 communities detected
-=======
-- 20 files · ~0 words
-- Verdict: corpus is large enough that graph structure adds value.
-
-## Summary
-- 278 nodes · 423 edges · 23 communities detected
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
+- 307 nodes · 457 edges · 24 communities detected
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## God Nodes (most connected - your core abstractions)
-1. `index.js` - 87 edges
-2. `source.js` - 87 edges
-<<<<<<< HEAD
+1. `index.js` - 90 edges
+2. `source.js` - 90 edges
 3. `Common.ts` - 24 edges
-=======
-3. `Common.ts` - 23 edges
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
 4. `Paperback` - 11 edges
 5. `Paperback` - 11 edges
 6. `Paperback` - 11 edges
@@ -34,21 +22,8 @@
 10. `MangaFreak` - 7 edges
 
 ## Surprising Connections (you probably didn't know these)
-<<<<<<< HEAD
 - `buildMangaUrl()` --calls--> `normalizeMangaId()`  [EXTRACTED]
   C:\Users\adinj\Documents\githubprojects\paperback_dev\extensions-main-promises\src\WeebCentral\Common.ts → C:\Users\adinj\Documents\githubprojects\paperback_dev\extensions-main-promises\src\MangaFreak\Common.ts
-=======
-- `from()` --calls--> `isInstance()`  [EXTRACTED]
-  C:\Users\adinj\Documents\githubprojects\paperback_dev\extensions-main-promises\bundles\Paperback\index.js → C:\Users\adinj\Documents\githubprojects\paperback_dev\extensions-main-promises\bundles\Paperback\index.js  _Bridges community 7 → community 13_
-- `fromObject()` --calls--> `numberIsNaN()`  [EXTRACTED]
-  C:\Users\adinj\Documents\githubprojects\paperback_dev\extensions-main-promises\bundles\Paperback\index.js → C:\Users\adinj\Documents\githubprojects\paperback_dev\extensions-main-promises\bundles\Paperback\index.js  _Bridges community 7 → community 17_
-- `byteLength()` --calls--> `utf8ToBytes()`  [EXTRACTED]
-  C:\Users\adinj\Documents\githubprojects\paperback_dev\extensions-main-promises\bundles\Paperback\index.js → C:\Users\adinj\Documents\githubprojects\paperback_dev\extensions-main-promises\bundles\Paperback\index.js  _Bridges community 13 → community 11_
-- `createAuthorizationString()` --calls--> `from()`  [EXTRACTED]
-  C:\Users\adinj\Documents\githubprojects\paperback_dev\extensions-main-promises\bundles\Paperback\index.js → C:\Users\adinj\Documents\githubprojects\paperback_dev\extensions-main-promises\bundles\Paperback\index.js  _Bridges community 14 → community 7_
-- `from()` --calls--> `isInstance()`  [EXTRACTED]
-  C:\Users\adinj\Documents\githubprojects\paperback_dev\extensions-main-promises\bundles\Paperback\source.js → C:\Users\adinj\Documents\githubprojects\paperback_dev\extensions-main-promises\bundles\Paperback\source.js  _Bridges community 9 → community 15_
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
 
 ## Communities
 
@@ -61,12 +36,12 @@ Cohesion: 0.07
 Nodes (8): source.js, checkIEEE754(), getKomgaAPI(), getOptions(), getServerUnavailableMangaTiles(), searchRequest(), writeDouble(), writeFloat()
 
 ### Community 2 - "Community 2"
-Cohesion: 0.08
-Nodes (5): MangaFreak, Paperback, parseChapterList(), parseMangaDetails(), Source
+Cohesion: 0.07
+Nodes (6): MangaFreak, Paperback, parseChapterList(), parseMangaDetails(), Source, WeebCentral
 
 ### Community 3 - "Community 3"
-Cohesion: 0.08
-Nodes (5): MangaFreak, Paperback, parseChapterList(), parseMangaDetails(), Source
+Cohesion: 0.07
+Nodes (6): MangaFreak, Paperback, parseChapterList(), parseMangaDetails(), Source, WeebCentral
 
 ### Community 4 - "Community 4"
 Cohesion: 0.09
@@ -97,17 +72,16 @@ Cohesion: 0.2
 Nodes (5): Languages.ts, MangaFreak.ts, MangaFreak, parseChapterList(), parseMangaDetails()
 
 ### Community 11 - "Community 11"
-Cohesion: 0.22
-Nodes (9): asciiToBytes(), asciiWrite(), base64Write(), blitBuffer(), latin1Write(), ucs2Write(), utf16leToBytes(), utf8ToBytes() (+1 more)
+Cohesion: 0.2
+Nodes (3): WeebCentral.ts, parseMangaDetails(), WeebCentral
 
 ### Community 12 - "Community 12"
 Cohesion: 0.22
 Nodes (9): asciiToBytes(), asciiWrite(), base64Write(), blitBuffer(), latin1Write(), ucs2Write(), utf16leToBytes(), utf8ToBytes() (+1 more)
 
 ### Community 13 - "Community 13"
-<<<<<<< HEAD
-Cohesion: 0.25
-Nodes (3): WeebCentral.ts, parseMangaDetails(), WeebCentral
+Cohesion: 0.22
+Nodes (9): asciiToBytes(), asciiWrite(), base64Write(), blitBuffer(), latin1Write(), ucs2Write(), utf16leToBytes(), utf8ToBytes() (+1 more)
 
 ### Community 14 - "Community 14"
 Cohesion: 0.4
@@ -125,45 +99,19 @@ Nodes (6): base64clean(), base64ToBytes(), byteLength(), getLens(), isInstance()
 Cohesion: 0.33
 Nodes (6): createAuthorizationString(), createKomgaAPI(), setCredentials(), setKomgaServerAddress(), setOptions(), setStateData()
 
-=======
-Cohesion: 0.4
-Nodes (6): base64clean(), base64ToBytes(), byteLength(), getLens(), isInstance(), toByteArray()
-
-### Community 14 - "Community 14"
-Cohesion: 0.33
-Nodes (6): createAuthorizationString(), createKomgaAPI(), setCredentials(), setKomgaServerAddress(), setOptions(), setStateData()
-
-### Community 15 - "Community 15"
-Cohesion: 0.4
-Nodes (6): base64clean(), base64ToBytes(), byteLength(), getLens(), isInstance(), toByteArray()
-
-### Community 16 - "Community 16"
-Cohesion: 0.33
-Nodes (6): createAuthorizationString(), createKomgaAPI(), setCredentials(), setKomgaServerAddress(), setOptions(), setStateData()
-
-### Community 17 - "Community 17"
-Cohesion: 0.5
-Nodes (4): arrayIndexOf(), bidirectionalIndexOf(), hexWrite(), numberIsNaN()
-
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
 ### Community 18 - "Community 18"
 Cohesion: 0.5
 Nodes (4): arrayIndexOf(), bidirectionalIndexOf(), hexWrite(), numberIsNaN()
 
 ### Community 19 - "Community 19"
 Cohesion: 0.5
-<<<<<<< HEAD
 Nodes (4): arrayIndexOf(), bidirectionalIndexOf(), hexWrite(), numberIsNaN()
-=======
-Nodes (1): KomgaRequestInterceptor
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
 
 ### Community 20 - "Community 20"
 Cohesion: 0.5
 Nodes (1): KomgaRequestInterceptor
 
 ### Community 21 - "Community 21"
-<<<<<<< HEAD
 Cohesion: 0.5
 Nodes (1): KomgaRequestInterceptor
 
@@ -172,50 +120,29 @@ Cohesion: 1
 Nodes (1): Tracker
 
 ### Community 23 - "Community 23"
-=======
-Cohesion: 1
-Nodes (1): Tracker
-
-### Community 22 - "Community 22"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
 Cohesion: 1
 Nodes (1): Tracker
 
 ## Knowledge Gaps
-<<<<<<< HEAD
 - **Thin community `Community 22`** (2 nodes): `Tracker`, `.constructor()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 - **Thin community `Community 23`** (2 nodes): `Tracker`, `.constructor()`
-=======
-- **Thin community `Community 21`** (2 nodes): `Tracker`, `.constructor()`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 22`** (2 nodes): `Tracker`, `.constructor()`
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-<<<<<<< HEAD
-- **Why does `index.js` connect `Community 0` to `Community 2`, `Community 22`, `Community 14`, `Community 6`, `Community 7`, `Community 18`, `Community 11`, `Community 15`, `Community 20`?**
-  _High betweenness centrality (0.141) - this node is a cross-community bridge._
-- **Why does `source.js` connect `Community 1` to `Community 3`, `Community 23`, `Community 16`, `Community 8`, `Community 9`, `Community 19`, `Community 12`, `Community 17`, `Community 21`?**
-  _High betweenness centrality (0.141) - this node is a cross-community bridge._
-- **Why does `Common.ts` connect `Community 5` to `Community 10`, `Community 4`, `Community 13`?**
-  _High betweenness centrality (0.037) - this node is a cross-community bridge._
-=======
-- **Why does `index.js` connect `Community 0` to `Community 2`, `Community 21`, `Community 13`, `Community 6`, `Community 7`, `Community 17`, `Community 11`, `Community 14`, `Community 19`?**
-  _High betweenness centrality (0.150) - this node is a cross-community bridge._
-- **Why does `source.js` connect `Community 1` to `Community 3`, `Community 22`, `Community 15`, `Community 8`, `Community 9`, `Community 18`, `Community 12`, `Community 16`, `Community 20`?**
-  _High betweenness centrality (0.150) - this node is a cross-community bridge._
-- **Why does `Paperback` connect `Community 2` to `Community 0`?**
-  _High betweenness centrality (0.027) - this node is a cross-community bridge._
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
+- **Why does `index.js` connect `Community 0` to `Community 2`, `Community 22`, `Community 14`, `Community 6`, `Community 7`, `Community 18`, `Community 12`, `Community 15`, `Community 20`?**
+  _High betweenness centrality (0.144) - this node is a cross-community bridge._
+- **Why does `source.js` connect `Community 1` to `Community 3`, `Community 23`, `Community 16`, `Community 8`, `Community 9`, `Community 19`, `Community 13`, `Community 17`, `Community 21`?**
+  _High betweenness centrality (0.144) - this node is a cross-community bridge._
+- **Why does `Common.ts` connect `Community 5` to `Community 10`, `Community 4`, `Community 11`?**
+  _High betweenness centrality (0.035) - this node is a cross-community bridge._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.07 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
   _Cohesion score 0.07 - nodes in this community are weakly interconnected._
 - **Should `Community 2` be split into smaller, more focused modules?**
-  _Cohesion score 0.08 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.07 - nodes in this community are weakly interconnected._
 - **Should `Community 3` be split into smaller, more focused modules?**
-  _Cohesion score 0.08 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.07 - nodes in this community are weakly interconnected._

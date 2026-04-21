@@ -25,12 +25,8 @@
       "19": "Community 19",
       "20": "Community 20",
       "21": "Community 21",
-<<<<<<< HEAD
       "22": "Community 22",
       "23": "Community 23"
-=======
-      "22": "Community 22"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     }
   },
   "nodes": [
@@ -38,7 +34,7 @@
       "id": "index",
       "label": "index.js",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
       "source_location": "L1",
       "community": 0,
       "community_name": "Community 0"
@@ -47,7 +43,7 @@
       "id": "index_r",
       "label": "r()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
       "source_location": "L1",
       "community": 0,
       "community_name": "Community 0"
@@ -56,8 +52,8 @@
       "id": "index_source",
       "label": "Source",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2029",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L9",
       "community": 2,
       "community_name": "Community 2"
     },
@@ -65,8 +61,8 @@
       "id": "index_source_constructor",
       "label": ".constructor()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2030",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L10",
       "community": 2,
       "community_name": "Community 2"
     },
@@ -74,8 +70,8 @@
       "id": "index_source_searchrequest",
       "label": ".searchRequest()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2036",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L16",
       "community": 2,
       "community_name": "Community 2"
     },
@@ -83,8 +79,8 @@
       "id": "index_source_gettags",
       "label": ".getTags()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2042",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L22",
       "community": 2,
       "community_name": "Community 2"
     },
@@ -92,8 +88,8 @@
       "id": "index_converttime",
       "label": "convertTime()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2049",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L29",
       "community": 0,
       "community_name": "Community 0"
     },
@@ -101,8 +97,8 @@
       "id": "index_urlencodeobject",
       "label": "urlEncodeObject()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2076",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L56",
       "community": 0,
       "community_name": "Community 0"
     },
@@ -110,36 +106,26 @@
       "id": "index_tracker",
       "label": "Tracker",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2089",
-<<<<<<< HEAD
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L69",
       "community": 22,
       "community_name": "Community 22"
-=======
-      "community": 21,
-      "community_name": "Community 21"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_tracker_constructor",
       "label": ".constructor()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2090",
-<<<<<<< HEAD
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L70",
       "community": 22,
       "community_name": "Community 22"
-=======
-      "community": 21,
-      "community_name": "Community 21"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_buildsearchurl",
       "label": "buildSearchUrl()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L371",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L370",
       "community": 0,
       "community_name": "Community 0"
     },
@@ -147,8 +133,8 @@
       "id": "index_buildmangaurl",
       "label": "buildMangaUrl()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L377",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L374",
       "community": 0,
       "community_name": "Community 0"
     },
@@ -156,8 +142,8 @@
       "id": "index_normalizeurl",
       "label": "normalizeUrl()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L385",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L378",
       "community": 0,
       "community_name": "Community 0"
     },
@@ -183,8 +169,8 @@
       "id": "index_extracttext",
       "label": "extractText()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L442",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L400",
       "community": 0,
       "community_name": "Community 0"
     },
@@ -219,8 +205,8 @@
       "id": "index_parsemangadetails",
       "label": "parseMangaDetails()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L511",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L452",
       "community": 2,
       "community_name": "Community 2"
     },
@@ -229,7 +215,7 @@
       "label": "parseChapterList()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L570",
+      "source_location": "L565",
       "community": 2,
       "community_name": "Community 2"
     },
@@ -238,7 +224,7 @@
       "label": "MangaFreak",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L615",
+      "source_location": "L610",
       "community": 2,
       "community_name": "Community 2"
     },
@@ -247,7 +233,7 @@
       "label": ".constructor()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L616",
+      "source_location": "L611",
       "community": 2,
       "community_name": "Community 2"
     },
@@ -256,7 +242,7 @@
       "label": ".getMangaDetails()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L623",
+      "source_location": "L618",
       "community": 2,
       "community_name": "Community 2"
     },
@@ -265,7 +251,7 @@
       "label": ".getChapters()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L633",
+      "source_location": "L628",
       "community": 2,
       "community_name": "Community 2"
     },
@@ -274,7 +260,7 @@
       "label": ".getChapterDetails()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L643",
+      "source_location": "L638",
       "community": 2,
       "community_name": "Community 2"
     },
@@ -283,7 +269,7 @@
       "label": ".getSearchResults()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L646",
+      "source_location": "L708",
       "community": 2,
       "community_name": "Community 2"
     },
@@ -292,7 +278,7 @@
       "label": ".getHomePageSections()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L735",
+      "source_location": "L797",
       "community": 2,
       "community_name": "Community 2"
     },
@@ -300,7 +286,7 @@
       "id": "source",
       "label": "source.js",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
       "source_location": "L1",
       "community": 1,
       "community_name": "Community 1"
@@ -309,7 +295,7 @@
       "id": "source_r",
       "label": "r()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
       "source_location": "L1",
       "community": 1,
       "community_name": "Community 1"
@@ -318,8 +304,8 @@
       "id": "source_source",
       "label": "Source",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2029",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L9",
       "community": 3,
       "community_name": "Community 3"
     },
@@ -327,8 +313,8 @@
       "id": "source_source_constructor",
       "label": ".constructor()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2030",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L10",
       "community": 3,
       "community_name": "Community 3"
     },
@@ -336,8 +322,8 @@
       "id": "source_source_searchrequest",
       "label": ".searchRequest()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2036",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L16",
       "community": 3,
       "community_name": "Community 3"
     },
@@ -345,8 +331,8 @@
       "id": "source_source_gettags",
       "label": ".getTags()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2042",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L22",
       "community": 3,
       "community_name": "Community 3"
     },
@@ -354,8 +340,8 @@
       "id": "source_converttime",
       "label": "convertTime()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2049",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L29",
       "community": 1,
       "community_name": "Community 1"
     },
@@ -363,8 +349,8 @@
       "id": "source_urlencodeobject",
       "label": "urlEncodeObject()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2076",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L56",
       "community": 1,
       "community_name": "Community 1"
     },
@@ -372,36 +358,26 @@
       "id": "source_tracker",
       "label": "Tracker",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2089",
-<<<<<<< HEAD
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L69",
       "community": 23,
       "community_name": "Community 23"
-=======
-      "community": 22,
-      "community_name": "Community 22"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_tracker_constructor",
       "label": ".constructor()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2090",
-<<<<<<< HEAD
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L70",
       "community": 23,
       "community_name": "Community 23"
-=======
-      "community": 22,
-      "community_name": "Community 22"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_buildsearchurl",
       "label": "buildSearchUrl()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L371",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L370",
       "community": 1,
       "community_name": "Community 1"
     },
@@ -409,8 +385,8 @@
       "id": "source_buildmangaurl",
       "label": "buildMangaUrl()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L377",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L374",
       "community": 1,
       "community_name": "Community 1"
     },
@@ -418,8 +394,8 @@
       "id": "source_normalizeurl",
       "label": "normalizeUrl()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L385",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L378",
       "community": 1,
       "community_name": "Community 1"
     },
@@ -445,8 +421,8 @@
       "id": "source_extracttext",
       "label": "extractText()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L442",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L400",
       "community": 1,
       "community_name": "Community 1"
     },
@@ -481,8 +457,8 @@
       "id": "source_parsemangadetails",
       "label": "parseMangaDetails()",
       "file_type": "code",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L511",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L452",
       "community": 3,
       "community_name": "Community 3"
     },
@@ -491,7 +467,7 @@
       "label": "parseChapterList()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L570",
+      "source_location": "L565",
       "community": 3,
       "community_name": "Community 3"
     },
@@ -500,7 +476,7 @@
       "label": "MangaFreak",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L615",
+      "source_location": "L610",
       "community": 3,
       "community_name": "Community 3"
     },
@@ -509,7 +485,7 @@
       "label": ".constructor()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L616",
+      "source_location": "L611",
       "community": 3,
       "community_name": "Community 3"
     },
@@ -518,7 +494,7 @@
       "label": ".getMangaDetails()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L623",
+      "source_location": "L618",
       "community": 3,
       "community_name": "Community 3"
     },
@@ -527,7 +503,7 @@
       "label": ".getChapters()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L633",
+      "source_location": "L628",
       "community": 3,
       "community_name": "Community 3"
     },
@@ -536,7 +512,7 @@
       "label": ".getChapterDetails()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L643",
+      "source_location": "L638",
       "community": 3,
       "community_name": "Community 3"
     },
@@ -545,7 +521,7 @@
       "label": ".getSearchResults()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L646",
+      "source_location": "L708",
       "community": 3,
       "community_name": "Community 3"
     },
@@ -554,7 +530,7 @@
       "label": ".getHomePageSections()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L735",
+      "source_location": "L797",
       "community": 3,
       "community_name": "Community 3"
     },
@@ -564,13 +540,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L23",
-<<<<<<< HEAD
       "community": 14,
       "community_name": "Community 14"
-=======
-      "community": 13,
-      "community_name": "Community 13"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_bytelength",
@@ -578,13 +549,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L43",
-<<<<<<< HEAD
       "community": 14,
       "community_name": "Community 14"
-=======
-      "community": 13,
-      "community_name": "Community 13"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_tobytearray",
@@ -592,13 +558,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L54",
-<<<<<<< HEAD
       "community": 14,
       "community_name": "Community 14"
-=======
-      "community": 13,
-      "community_name": "Community 13"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_triplettobase64",
@@ -768,13 +729,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L836",
-<<<<<<< HEAD
       "community": 18,
       "community_name": "Community 18"
-=======
-      "community": 17,
-      "community_name": "Community 17"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_arrayindexof",
@@ -782,13 +738,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L892",
-<<<<<<< HEAD
       "community": 18,
       "community_name": "Community 18"
-=======
-      "community": 17,
-      "community_name": "Community 17"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_hexwrite",
@@ -796,13 +747,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L960",
-<<<<<<< HEAD
       "community": 18,
       "community_name": "Community 18"
-=======
-      "community": 17,
-      "community_name": "Community 17"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_utf8write",
@@ -810,8 +756,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L985",
-      "community": 11,
-      "community_name": "Community 11"
+      "community": 12,
+      "community_name": "Community 12"
     },
     {
       "id": "index_asciiwrite",
@@ -819,8 +765,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L989",
-      "community": 11,
-      "community_name": "Community 11"
+      "community": 12,
+      "community_name": "Community 12"
     },
     {
       "id": "index_latin1write",
@@ -828,8 +774,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L993",
-      "community": 11,
-      "community_name": "Community 11"
+      "community": 12,
+      "community_name": "Community 12"
     },
     {
       "id": "index_base64write",
@@ -837,8 +783,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L997",
-      "community": 11,
-      "community_name": "Community 11"
+      "community": 12,
+      "community_name": "Community 12"
     },
     {
       "id": "index_ucs2write",
@@ -846,8 +792,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L1001",
-      "community": 11,
-      "community_name": "Community 11"
+      "community": 12,
+      "community_name": "Community 12"
     },
     {
       "id": "index_base64slice",
@@ -963,13 +909,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L1784",
-<<<<<<< HEAD
       "community": 14,
       "community_name": "Community 14"
-=======
-      "community": 13,
-      "community_name": "Community 13"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_tohex",
@@ -986,8 +927,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L1803",
-      "community": 11,
-      "community_name": "Community 11"
+      "community": 12,
+      "community_name": "Community 12"
     },
     {
       "id": "index_asciitobytes",
@@ -995,8 +936,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L1883",
-      "community": 11,
-      "community_name": "Community 11"
+      "community": 12,
+      "community_name": "Community 12"
     },
     {
       "id": "index_utf16letobytes",
@@ -1004,8 +945,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L1892",
-      "community": 11,
-      "community_name": "Community 11"
+      "community": 12,
+      "community_name": "Community 12"
     },
     {
       "id": "index_base64tobytes",
@@ -1013,13 +954,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L1908",
-<<<<<<< HEAD
       "community": 14,
       "community_name": "Community 14"
-=======
-      "community": 13,
-      "community_name": "Community 13"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_blitbuffer",
@@ -1027,8 +963,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L1912",
-      "community": 11,
-      "community_name": "Community 11"
+      "community": 12,
+      "community_name": "Community 12"
     },
     {
       "id": "index_isinstance",
@@ -1036,13 +972,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L1923",
-<<<<<<< HEAD
       "community": 14,
       "community_name": "Community 14"
-=======
-      "community": 13,
-      "community_name": "Community 13"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_numberisnan",
@@ -1050,13 +981,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L1928",
-<<<<<<< HEAD
       "community": 18,
       "community_name": "Community 18"
-=======
-      "community": 17,
-      "community_name": "Community 17"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_getserverunavailablemangatiles",
@@ -1118,13 +1044,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2515",
-<<<<<<< HEAD
       "community": 15,
       "community_name": "Community 15"
-=======
-      "community": 14,
-      "community_name": "Community 14"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_setkomgaserveraddress",
@@ -1132,13 +1053,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2521",
-<<<<<<< HEAD
       "community": 15,
       "community_name": "Community 15"
-=======
-      "community": 14,
-      "community_name": "Community 14"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_setcredentials",
@@ -1146,13 +1062,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2525",
-<<<<<<< HEAD
       "community": 15,
       "community_name": "Community 15"
-=======
-      "community": 14,
-      "community_name": "Community 14"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_setoptions",
@@ -1160,13 +1071,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2530",
-<<<<<<< HEAD
       "community": 15,
       "community_name": "Community 15"
-=======
-      "community": 14,
-      "community_name": "Community 14"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_createauthorizationstring",
@@ -1174,13 +1080,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2535",
-<<<<<<< HEAD
       "community": 15,
       "community_name": "Community 15"
-=======
-      "community": 14,
-      "community_name": "Community 14"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_createkomgaapi",
@@ -1188,13 +1089,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2538",
-<<<<<<< HEAD
       "community": 15,
       "community_name": "Community 15"
-=======
-      "community": 14,
-      "community_name": "Community 14"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_parsemangastatus",
@@ -1220,13 +1116,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2664",
-<<<<<<< HEAD
       "community": 20,
       "community_name": "Community 20"
-=======
-      "community": 19,
-      "community_name": "Community 19"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_komgarequestinterceptor_constructor",
@@ -1234,13 +1125,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2665",
-<<<<<<< HEAD
       "community": 20,
       "community_name": "Community 20"
-=======
-      "community": 19,
-      "community_name": "Community 19"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_komgarequestinterceptor_interceptresponse",
@@ -1248,13 +1134,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2668",
-<<<<<<< HEAD
       "community": 20,
       "community_name": "Community 20"
-=======
-      "community": 19,
-      "community_name": "Community 19"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_komgarequestinterceptor_interceptrequest",
@@ -1262,13 +1143,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
       "source_location": "L2671",
-<<<<<<< HEAD
       "community": 20,
       "community_name": "Community 20"
-=======
-      "community": 19,
-      "community_name": "Community 19"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "index_paperback",
@@ -1411,13 +1287,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L23",
-<<<<<<< HEAD
       "community": 16,
       "community_name": "Community 16"
-=======
-      "community": 15,
-      "community_name": "Community 15"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_bytelength",
@@ -1425,13 +1296,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L43",
-<<<<<<< HEAD
       "community": 16,
       "community_name": "Community 16"
-=======
-      "community": 15,
-      "community_name": "Community 15"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_tobytearray",
@@ -1439,13 +1305,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L54",
-<<<<<<< HEAD
       "community": 16,
       "community_name": "Community 16"
-=======
-      "community": 15,
-      "community_name": "Community 15"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_triplettobase64",
@@ -1615,13 +1476,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L836",
-<<<<<<< HEAD
       "community": 19,
       "community_name": "Community 19"
-=======
-      "community": 18,
-      "community_name": "Community 18"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_arrayindexof",
@@ -1629,13 +1485,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L892",
-<<<<<<< HEAD
       "community": 19,
       "community_name": "Community 19"
-=======
-      "community": 18,
-      "community_name": "Community 18"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_hexwrite",
@@ -1643,13 +1494,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L960",
-<<<<<<< HEAD
       "community": 19,
       "community_name": "Community 19"
-=======
-      "community": 18,
-      "community_name": "Community 18"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_utf8write",
@@ -1657,8 +1503,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L985",
-      "community": 12,
-      "community_name": "Community 12"
+      "community": 13,
+      "community_name": "Community 13"
     },
     {
       "id": "source_asciiwrite",
@@ -1666,8 +1512,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L989",
-      "community": 12,
-      "community_name": "Community 12"
+      "community": 13,
+      "community_name": "Community 13"
     },
     {
       "id": "source_latin1write",
@@ -1675,8 +1521,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L993",
-      "community": 12,
-      "community_name": "Community 12"
+      "community": 13,
+      "community_name": "Community 13"
     },
     {
       "id": "source_base64write",
@@ -1684,8 +1530,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L997",
-      "community": 12,
-      "community_name": "Community 12"
+      "community": 13,
+      "community_name": "Community 13"
     },
     {
       "id": "source_ucs2write",
@@ -1693,8 +1539,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L1001",
-      "community": 12,
-      "community_name": "Community 12"
+      "community": 13,
+      "community_name": "Community 13"
     },
     {
       "id": "source_base64slice",
@@ -1810,13 +1656,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L1784",
-<<<<<<< HEAD
       "community": 16,
       "community_name": "Community 16"
-=======
-      "community": 15,
-      "community_name": "Community 15"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_tohex",
@@ -1833,8 +1674,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L1803",
-      "community": 12,
-      "community_name": "Community 12"
+      "community": 13,
+      "community_name": "Community 13"
     },
     {
       "id": "source_asciitobytes",
@@ -1842,8 +1683,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L1883",
-      "community": 12,
-      "community_name": "Community 12"
+      "community": 13,
+      "community_name": "Community 13"
     },
     {
       "id": "source_utf16letobytes",
@@ -1851,8 +1692,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L1892",
-      "community": 12,
-      "community_name": "Community 12"
+      "community": 13,
+      "community_name": "Community 13"
     },
     {
       "id": "source_base64tobytes",
@@ -1860,13 +1701,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L1908",
-<<<<<<< HEAD
       "community": 16,
       "community_name": "Community 16"
-=======
-      "community": 15,
-      "community_name": "Community 15"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_blitbuffer",
@@ -1874,8 +1710,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L1912",
-      "community": 12,
-      "community_name": "Community 12"
+      "community": 13,
+      "community_name": "Community 13"
     },
     {
       "id": "source_isinstance",
@@ -1883,13 +1719,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L1923",
-<<<<<<< HEAD
       "community": 16,
       "community_name": "Community 16"
-=======
-      "community": 15,
-      "community_name": "Community 15"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_numberisnan",
@@ -1897,13 +1728,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L1928",
-<<<<<<< HEAD
       "community": 19,
       "community_name": "Community 19"
-=======
-      "community": 18,
-      "community_name": "Community 18"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_getserverunavailablemangatiles",
@@ -1965,13 +1791,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2515",
-<<<<<<< HEAD
       "community": 17,
       "community_name": "Community 17"
-=======
-      "community": 16,
-      "community_name": "Community 16"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_setkomgaserveraddress",
@@ -1979,13 +1800,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2521",
-<<<<<<< HEAD
       "community": 17,
       "community_name": "Community 17"
-=======
-      "community": 16,
-      "community_name": "Community 16"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_setcredentials",
@@ -1993,13 +1809,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2525",
-<<<<<<< HEAD
       "community": 17,
       "community_name": "Community 17"
-=======
-      "community": 16,
-      "community_name": "Community 16"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_setoptions",
@@ -2007,13 +1818,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2530",
-<<<<<<< HEAD
       "community": 17,
       "community_name": "Community 17"
-=======
-      "community": 16,
-      "community_name": "Community 16"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_createauthorizationstring",
@@ -2021,13 +1827,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2535",
-<<<<<<< HEAD
       "community": 17,
       "community_name": "Community 17"
-=======
-      "community": 16,
-      "community_name": "Community 16"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_createkomgaapi",
@@ -2035,13 +1836,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2538",
-<<<<<<< HEAD
       "community": 17,
       "community_name": "Community 17"
-=======
-      "community": 16,
-      "community_name": "Community 16"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_parsemangastatus",
@@ -2067,13 +1863,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2664",
-<<<<<<< HEAD
       "community": 21,
       "community_name": "Community 21"
-=======
-      "community": 20,
-      "community_name": "Community 20"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_komgarequestinterceptor_constructor",
@@ -2081,13 +1872,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2665",
-<<<<<<< HEAD
       "community": 21,
       "community_name": "Community 21"
-=======
-      "community": 20,
-      "community_name": "Community 20"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_komgarequestinterceptor_interceptresponse",
@@ -2095,13 +1881,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2668",
-<<<<<<< HEAD
       "community": 21,
       "community_name": "Community 21"
-=======
-      "community": 20,
-      "community_name": "Community 20"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_komgarequestinterceptor_interceptrequest",
@@ -2109,13 +1890,8 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
       "source_location": "L2671",
-<<<<<<< HEAD
       "community": 21,
       "community_name": "Community 21"
-=======
-      "community": 20,
-      "community_name": "Community 20"
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
     },
     {
       "id": "source_paperback",
@@ -2253,6 +2029,168 @@
       "community_name": "Community 1"
     },
     {
+      "id": "index_parseseriesid",
+      "label": "parseSeriesId()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L424",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "index_parsestatus",
+      "label": "parseStatus()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L436",
+      "community": 0,
+      "community_name": "Community 0"
+    },
+    {
+      "id": "index_weebcentral",
+      "label": "WeebCentral",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L506",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "index_weebcentral_constructor",
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L507",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "index_weebcentral_getmangadetails",
+      "label": ".getMangaDetails()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L514",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "index_weebcentral_getchapters",
+      "label": ".getChapters()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L523",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "index_weebcentral_getchapterdetails",
+      "label": ".getChapterDetails()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L526",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "index_weebcentral_getsearchresults",
+      "label": ".getSearchResults()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L534",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "index_weebcentral_gethomepagesections",
+      "label": ".getHomePageSections()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L565",
+      "community": 2,
+      "community_name": "Community 2"
+    },
+    {
+      "id": "source_parseseriesid",
+      "label": "parseSeriesId()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L424",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "source_parsestatus",
+      "label": "parseStatus()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L436",
+      "community": 1,
+      "community_name": "Community 1"
+    },
+    {
+      "id": "source_weebcentral",
+      "label": "WeebCentral",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L506",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "source_weebcentral_constructor",
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L507",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "source_weebcentral_getmangadetails",
+      "label": ".getMangaDetails()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L514",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "source_weebcentral_getchapters",
+      "label": ".getChapters()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L523",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "source_weebcentral_getchapterdetails",
+      "label": ".getChapterDetails()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L526",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "source_weebcentral_getsearchresults",
+      "label": ".getSearchResults()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L534",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
+      "id": "source_weebcentral_gethomepagesections",
+      "label": ".getHomePageSections()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L565",
+      "community": 3,
+      "community_name": "Community 3"
+    },
+    {
       "id": "common",
       "label": "Common.ts",
       "file_type": "code",
@@ -2266,7 +2204,7 @@
       "label": "buildSearchUrl()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
-      "source_location": "L4",
+      "source_location": "L3",
       "community": 5,
       "community_name": "Community 5"
     },
@@ -2274,13 +2212,8 @@
       "id": "common_buildmangaurl",
       "label": "buildMangaUrl()",
       "file_type": "code",
-<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
-      "source_location": "L8",
-=======
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
-      "source_location": "L10",
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
+      "source_location": "L7",
       "community": 5,
       "community_name": "Community 5"
     },
@@ -2288,13 +2221,8 @@
       "id": "common_normalizeurl",
       "label": "normalizeUrl()",
       "file_type": "code",
-<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
-      "source_location": "L12",
-=======
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
-      "source_location": "L19",
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
+      "source_location": "L11",
       "community": 5,
       "community_name": "Community 5"
     },
@@ -2320,13 +2248,8 @@
       "id": "common_extracttext",
       "label": "extractText()",
       "file_type": "code",
-<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
-      "source_location": "L37",
-=======
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
-      "source_location": "L85",
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
+      "source_location": "L36",
       "community": 5,
       "community_name": "Community 5"
     },
@@ -2361,13 +2284,8 @@
       "id": "languages_parselangcode",
       "label": "parseLangCode()",
       "file_type": "code",
-<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Languages.ts",
       "source_location": "L3",
-=======
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\Paperback\\Languages.ts",
-      "source_location": "L45",
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
       "community": 10,
       "community_name": "Community 10"
     },
@@ -2385,7 +2303,7 @@
       "label": "parseMangaDetails()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L46",
+      "source_location": "L40",
       "community": 10,
       "community_name": "Community 10"
     },
@@ -2394,7 +2312,7 @@
       "label": "parseChapterList()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L117",
+      "source_location": "L111",
       "community": 10,
       "community_name": "Community 10"
     },
@@ -2403,7 +2321,7 @@
       "label": "MangaFreak",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L175",
+      "source_location": "L169",
       "community": 10,
       "community_name": "Community 10"
     },
@@ -2412,7 +2330,7 @@
       "label": ".constructor()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\lib\\MangaFreak\\MangaFreak.js",
-      "source_location": "L127",
+      "source_location": "L122",
       "community": 10,
       "community_name": "Community 10"
     },
@@ -2421,7 +2339,7 @@
       "label": ".getMangaDetails()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L181",
+      "source_location": "L175",
       "community": 10,
       "community_name": "Community 10"
     },
@@ -2430,7 +2348,7 @@
       "label": ".getChapters()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L192",
+      "source_location": "L191",
       "community": 10,
       "community_name": "Community 10"
     },
@@ -2439,7 +2357,7 @@
       "label": ".getChapterDetails()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L203",
+      "source_location": "L207",
       "community": 10,
       "community_name": "Community 10"
     },
@@ -2448,7 +2366,7 @@
       "label": ".getSearchResults()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L212",
+      "source_location": "L292",
       "community": 10,
       "community_name": "Community 10"
     },
@@ -2457,7 +2375,7 @@
       "label": ".getHomePageSections()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L323",
+      "source_location": "L404",
       "community": 10,
       "community_name": "Community 10"
     },
@@ -2782,80 +2700,98 @@
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
       "source_location": "L1",
-      "community": 13,
-      "community_name": "Community 13"
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "weebcentral_parseseriesid",
+      "label": "parseSeriesId()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
+      "source_location": "L34",
+      "community": 11,
+      "community_name": "Community 11"
+    },
+    {
+      "id": "weebcentral_parsestatus",
+      "label": "parseStatus()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
+      "source_location": "L49",
+      "community": 11,
+      "community_name": "Community 11"
     },
     {
       "id": "weebcentral_parsemangadetails",
       "label": "parseMangaDetails()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L38",
-      "community": 13,
-      "community_name": "Community 13"
+      "source_location": "L70",
+      "community": 11,
+      "community_name": "Community 11"
     },
     {
       "id": "weebcentral_weebcentral",
       "label": "WeebCentral",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L98",
-      "community": 13,
-      "community_name": "Community 13"
+      "source_location": "L126",
+      "community": 11,
+      "community_name": "Community 11"
     },
     {
       "id": "weebcentral_weebcentral_constructor",
       "label": ".constructor()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\lib\\WeebCentral\\WeebCentral.js",
-      "source_location": "L80",
-      "community": 13,
-      "community_name": "Community 13"
+      "source_location": "L99",
+      "community": 11,
+      "community_name": "Community 11"
     },
     {
       "id": "weebcentral_weebcentral_getmangadetails",
       "label": ".getMangaDetails()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L104",
-      "community": 13,
-      "community_name": "Community 13"
+      "source_location": "L132",
+      "community": 11,
+      "community_name": "Community 11"
     },
     {
       "id": "weebcentral_weebcentral_getchapters",
       "label": ".getChapters()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L115",
-      "community": 13,
-      "community_name": "Community 13"
+      "source_location": "L142",
+      "community": 11,
+      "community_name": "Community 11"
     },
     {
       "id": "weebcentral_weebcentral_getchapterdetails",
       "label": ".getChapterDetails()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L119",
-      "community": 13,
-      "community_name": "Community 13"
+      "source_location": "L146",
+      "community": 11,
+      "community_name": "Community 11"
     },
     {
       "id": "weebcentral_weebcentral_getsearchresults",
       "label": ".getSearchResults()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L126",
-      "community": 13,
-      "community_name": "Community 13"
+      "source_location": "L155",
+      "community": 11,
+      "community_name": "Community 11"
     },
     {
       "id": "weebcentral_weebcentral_gethomepagesections",
       "label": ".getHomePageSections()",
       "file_type": "code",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L174",
-      "community": 13,
-      "community_name": "Community 13"
+      "source_location": "L193",
+      "community": 11,
+      "community_name": "Community 11"
     }
   ],
   "links": [
@@ -2864,7 +2800,7 @@
       "target": "index_r",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
       "source_location": "L1",
       "weight": 1,
       "_src": "index",
@@ -2876,8 +2812,8 @@
       "target": "index_source",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2029",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L9",
       "weight": 1,
       "_src": "index",
       "_tgt": "index_source",
@@ -2888,8 +2824,8 @@
       "target": "index_source_constructor",
       "relation": "method",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2030",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L10",
       "weight": 1,
       "_src": "index_source",
       "_tgt": "index_source_constructor",
@@ -2900,8 +2836,8 @@
       "target": "index_source_searchrequest",
       "relation": "method",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2036",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L16",
       "weight": 1,
       "_src": "index_source",
       "_tgt": "index_source_searchrequest",
@@ -2912,8 +2848,8 @@
       "target": "index_source_gettags",
       "relation": "method",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2042",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L22",
       "weight": 1,
       "_src": "index_source",
       "_tgt": "index_source_gettags",
@@ -2924,8 +2860,8 @@
       "target": "index_converttime",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2049",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L29",
       "weight": 1,
       "_src": "index",
       "_tgt": "index_converttime",
@@ -2936,8 +2872,8 @@
       "target": "index_urlencodeobject",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2076",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L56",
       "weight": 1,
       "_src": "index",
       "_tgt": "index_urlencodeobject",
@@ -2948,8 +2884,8 @@
       "target": "index_tracker",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2089",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L69",
       "weight": 1,
       "_src": "index",
       "_tgt": "index_tracker",
@@ -2960,8 +2896,8 @@
       "target": "index_tracker_constructor",
       "relation": "method",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\index.js",
-      "source_location": "L2090",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L70",
       "weight": 1,
       "_src": "index_tracker",
       "_tgt": "index_tracker_constructor",
@@ -2972,8 +2908,8 @@
       "target": "index_buildsearchurl",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L371",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L370",
       "weight": 1,
       "_src": "index",
       "_tgt": "index_buildsearchurl",
@@ -2984,8 +2920,8 @@
       "target": "index_buildmangaurl",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L377",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L374",
       "weight": 1,
       "_src": "index",
       "_tgt": "index_buildmangaurl",
@@ -2996,8 +2932,8 @@
       "target": "index_normalizeurl",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L385",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L378",
       "weight": 1,
       "_src": "index",
       "_tgt": "index_normalizeurl",
@@ -3032,8 +2968,8 @@
       "target": "index_extracttext",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L442",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L400",
       "weight": 1,
       "_src": "index",
       "_tgt": "index_extracttext",
@@ -3080,8 +3016,8 @@
       "target": "index_parsemangadetails",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L511",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L452",
       "weight": 1,
       "_src": "index",
       "_tgt": "index_parsemangadetails",
@@ -3093,7 +3029,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L570",
+      "source_location": "L565",
       "weight": 1,
       "_src": "index",
       "_tgt": "index_parsechapterlist",
@@ -3105,7 +3041,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L615",
+      "source_location": "L610",
       "weight": 1,
       "_src": "index",
       "_tgt": "index_mangafreak",
@@ -3117,7 +3053,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L616",
+      "source_location": "L611",
       "weight": 1,
       "_src": "index_mangafreak",
       "_tgt": "index_mangafreak_constructor",
@@ -3129,7 +3065,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L623",
+      "source_location": "L618",
       "weight": 1,
       "_src": "index_mangafreak",
       "_tgt": "index_mangafreak_getmangadetails",
@@ -3141,7 +3077,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L633",
+      "source_location": "L628",
       "weight": 1,
       "_src": "index_mangafreak",
       "_tgt": "index_mangafreak_getchapters",
@@ -3153,7 +3089,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L643",
+      "source_location": "L638",
       "weight": 1,
       "_src": "index_mangafreak",
       "_tgt": "index_mangafreak_getchapterdetails",
@@ -3165,7 +3101,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L646",
+      "source_location": "L708",
       "weight": 1,
       "_src": "index_mangafreak",
       "_tgt": "index_mangafreak_getsearchresults",
@@ -3177,7 +3113,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L735",
+      "source_location": "L797",
       "weight": 1,
       "_src": "index_mangafreak",
       "_tgt": "index_mangafreak_gethomepagesections",
@@ -3201,7 +3137,7 @@
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L631",
+      "source_location": "L626",
       "weight": 1,
       "_src": "index_mangafreak_getmangadetails",
       "_tgt": "index_parsemangadetails",
@@ -3213,7 +3149,7 @@
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\index.js",
-      "source_location": "L641",
+      "source_location": "L636",
       "weight": 1,
       "_src": "index_mangafreak_getchapters",
       "_tgt": "index_parsechapterlist",
@@ -3224,7 +3160,7 @@
       "target": "source_r",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
       "source_location": "L1",
       "weight": 1,
       "_src": "source",
@@ -3236,8 +3172,8 @@
       "target": "source_source",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2029",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L9",
       "weight": 1,
       "_src": "source",
       "_tgt": "source_source",
@@ -3248,8 +3184,8 @@
       "target": "source_source_constructor",
       "relation": "method",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2030",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L10",
       "weight": 1,
       "_src": "source_source",
       "_tgt": "source_source_constructor",
@@ -3260,8 +3196,8 @@
       "target": "source_source_searchrequest",
       "relation": "method",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2036",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L16",
       "weight": 1,
       "_src": "source_source",
       "_tgt": "source_source_searchrequest",
@@ -3272,8 +3208,8 @@
       "target": "source_source_gettags",
       "relation": "method",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2042",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L22",
       "weight": 1,
       "_src": "source_source",
       "_tgt": "source_source_gettags",
@@ -3284,8 +3220,8 @@
       "target": "source_converttime",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2049",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L29",
       "weight": 1,
       "_src": "source",
       "_tgt": "source_converttime",
@@ -3296,8 +3232,8 @@
       "target": "source_urlencodeobject",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2076",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L56",
       "weight": 1,
       "_src": "source",
       "_tgt": "source_urlencodeobject",
@@ -3308,8 +3244,8 @@
       "target": "source_tracker",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2089",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L69",
       "weight": 1,
       "_src": "source",
       "_tgt": "source_tracker",
@@ -3320,8 +3256,8 @@
       "target": "source_tracker_constructor",
       "relation": "method",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\Paperback\\source.js",
-      "source_location": "L2090",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L70",
       "weight": 1,
       "_src": "source_tracker",
       "_tgt": "source_tracker_constructor",
@@ -3332,8 +3268,8 @@
       "target": "source_buildsearchurl",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L371",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L370",
       "weight": 1,
       "_src": "source",
       "_tgt": "source_buildsearchurl",
@@ -3344,8 +3280,8 @@
       "target": "source_buildmangaurl",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L377",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L374",
       "weight": 1,
       "_src": "source",
       "_tgt": "source_buildmangaurl",
@@ -3356,8 +3292,8 @@
       "target": "source_normalizeurl",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L385",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L378",
       "weight": 1,
       "_src": "source",
       "_tgt": "source_normalizeurl",
@@ -3392,8 +3328,8 @@
       "target": "source_extracttext",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L442",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L400",
       "weight": 1,
       "_src": "source",
       "_tgt": "source_extracttext",
@@ -3440,8 +3376,8 @@
       "target": "source_parsemangadetails",
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L511",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L452",
       "weight": 1,
       "_src": "source",
       "_tgt": "source_parsemangadetails",
@@ -3453,7 +3389,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L570",
+      "source_location": "L565",
       "weight": 1,
       "_src": "source",
       "_tgt": "source_parsechapterlist",
@@ -3465,7 +3401,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L615",
+      "source_location": "L610",
       "weight": 1,
       "_src": "source",
       "_tgt": "source_mangafreak",
@@ -3477,7 +3413,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L616",
+      "source_location": "L611",
       "weight": 1,
       "_src": "source_mangafreak",
       "_tgt": "source_mangafreak_constructor",
@@ -3489,7 +3425,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L623",
+      "source_location": "L618",
       "weight": 1,
       "_src": "source_mangafreak",
       "_tgt": "source_mangafreak_getmangadetails",
@@ -3501,7 +3437,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L633",
+      "source_location": "L628",
       "weight": 1,
       "_src": "source_mangafreak",
       "_tgt": "source_mangafreak_getchapters",
@@ -3513,7 +3449,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L643",
+      "source_location": "L638",
       "weight": 1,
       "_src": "source_mangafreak",
       "_tgt": "source_mangafreak_getchapterdetails",
@@ -3525,7 +3461,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L646",
+      "source_location": "L708",
       "weight": 1,
       "_src": "source_mangafreak",
       "_tgt": "source_mangafreak_getsearchresults",
@@ -3537,7 +3473,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L735",
+      "source_location": "L797",
       "weight": 1,
       "_src": "source_mangafreak",
       "_tgt": "source_mangafreak_gethomepagesections",
@@ -3561,7 +3497,7 @@
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L631",
+      "source_location": "L626",
       "weight": 1,
       "_src": "source_mangafreak_getmangadetails",
       "_tgt": "source_parsemangadetails",
@@ -3573,7 +3509,7 @@
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\MangaFreak\\source.js",
-      "source_location": "L641",
+      "source_location": "L636",
       "weight": 1,
       "_src": "source_mangafreak_getchapters",
       "_tgt": "source_parsechapterlist",
@@ -7108,12 +7044,276 @@
       "confidence_score": 1
     },
     {
+      "source": "index",
+      "target": "index_parseseriesid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L424",
+      "weight": 1,
+      "_src": "index",
+      "_tgt": "index_parseseriesid",
+      "confidence_score": 1
+    },
+    {
+      "source": "index",
+      "target": "index_parsestatus",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L436",
+      "weight": 1,
+      "_src": "index",
+      "_tgt": "index_parsestatus",
+      "confidence_score": 1
+    },
+    {
+      "source": "index",
+      "target": "index_weebcentral",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L506",
+      "weight": 1,
+      "_src": "index",
+      "_tgt": "index_weebcentral",
+      "confidence_score": 1
+    },
+    {
+      "source": "index_weebcentral",
+      "target": "index_weebcentral_constructor",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L507",
+      "weight": 1,
+      "_src": "index_weebcentral",
+      "_tgt": "index_weebcentral_constructor",
+      "confidence_score": 1
+    },
+    {
+      "source": "index_weebcentral",
+      "target": "index_weebcentral_getmangadetails",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L514",
+      "weight": 1,
+      "_src": "index_weebcentral",
+      "_tgt": "index_weebcentral_getmangadetails",
+      "confidence_score": 1
+    },
+    {
+      "source": "index_weebcentral",
+      "target": "index_weebcentral_getchapters",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L523",
+      "weight": 1,
+      "_src": "index_weebcentral",
+      "_tgt": "index_weebcentral_getchapters",
+      "confidence_score": 1
+    },
+    {
+      "source": "index_weebcentral",
+      "target": "index_weebcentral_getchapterdetails",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L526",
+      "weight": 1,
+      "_src": "index_weebcentral",
+      "_tgt": "index_weebcentral_getchapterdetails",
+      "confidence_score": 1
+    },
+    {
+      "source": "index_weebcentral",
+      "target": "index_weebcentral_getsearchresults",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L534",
+      "weight": 1,
+      "_src": "index_weebcentral",
+      "_tgt": "index_weebcentral_getsearchresults",
+      "confidence_score": 1
+    },
+    {
+      "source": "index_weebcentral",
+      "target": "index_weebcentral_gethomepagesections",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L565",
+      "weight": 1,
+      "_src": "index_weebcentral",
+      "_tgt": "index_weebcentral_gethomepagesections",
+      "confidence_score": 1
+    },
+    {
+      "source": "index_source_searchrequest",
+      "target": "index_weebcentral_getsearchresults",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L17",
+      "weight": 1,
+      "_src": "index_source_searchrequest",
+      "_tgt": "index_weebcentral_getsearchresults",
+      "confidence_score": 1
+    },
+    {
+      "source": "index_weebcentral_getmangadetails",
+      "target": "index_parsemangadetails",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\index.js",
+      "source_location": "L521",
+      "weight": 1,
+      "_src": "index_weebcentral_getmangadetails",
+      "_tgt": "index_parsemangadetails",
+      "confidence_score": 1
+    },
+    {
+      "source": "source",
+      "target": "source_parseseriesid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L424",
+      "weight": 1,
+      "_src": "source",
+      "_tgt": "source_parseseriesid",
+      "confidence_score": 1
+    },
+    {
+      "source": "source",
+      "target": "source_parsestatus",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L436",
+      "weight": 1,
+      "_src": "source",
+      "_tgt": "source_parsestatus",
+      "confidence_score": 1
+    },
+    {
+      "source": "source",
+      "target": "source_weebcentral",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L506",
+      "weight": 1,
+      "_src": "source",
+      "_tgt": "source_weebcentral",
+      "confidence_score": 1
+    },
+    {
+      "source": "source_weebcentral",
+      "target": "source_weebcentral_constructor",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L507",
+      "weight": 1,
+      "_src": "source_weebcentral",
+      "_tgt": "source_weebcentral_constructor",
+      "confidence_score": 1
+    },
+    {
+      "source": "source_weebcentral",
+      "target": "source_weebcentral_getmangadetails",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L514",
+      "weight": 1,
+      "_src": "source_weebcentral",
+      "_tgt": "source_weebcentral_getmangadetails",
+      "confidence_score": 1
+    },
+    {
+      "source": "source_weebcentral",
+      "target": "source_weebcentral_getchapters",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L523",
+      "weight": 1,
+      "_src": "source_weebcentral",
+      "_tgt": "source_weebcentral_getchapters",
+      "confidence_score": 1
+    },
+    {
+      "source": "source_weebcentral",
+      "target": "source_weebcentral_getchapterdetails",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L526",
+      "weight": 1,
+      "_src": "source_weebcentral",
+      "_tgt": "source_weebcentral_getchapterdetails",
+      "confidence_score": 1
+    },
+    {
+      "source": "source_weebcentral",
+      "target": "source_weebcentral_getsearchresults",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L534",
+      "weight": 1,
+      "_src": "source_weebcentral",
+      "_tgt": "source_weebcentral_getsearchresults",
+      "confidence_score": 1
+    },
+    {
+      "source": "source_weebcentral",
+      "target": "source_weebcentral_gethomepagesections",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L565",
+      "weight": 1,
+      "_src": "source_weebcentral",
+      "_tgt": "source_weebcentral_gethomepagesections",
+      "confidence_score": 1
+    },
+    {
+      "source": "source_source_searchrequest",
+      "target": "source_weebcentral_getsearchresults",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L17",
+      "weight": 1,
+      "_src": "source_source_searchrequest",
+      "_tgt": "source_weebcentral_getsearchresults",
+      "confidence_score": 1
+    },
+    {
+      "source": "source_weebcentral_getmangadetails",
+      "target": "source_parsemangadetails",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\bundles\\WeebCentral\\source.js",
+      "source_location": "L521",
+      "weight": 1,
+      "_src": "source_weebcentral_getmangadetails",
+      "_tgt": "source_parsemangadetails",
+      "confidence_score": 1
+    },
+    {
       "source": "common",
       "target": "common_buildsearchurl",
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
-      "source_location": "L4",
+      "source_location": "L3",
       "weight": 1,
       "_src": "common",
       "_tgt": "common_buildsearchurl",
@@ -7124,13 +7324,8 @@
       "target": "common_buildmangaurl",
       "relation": "contains",
       "confidence": "EXTRACTED",
-<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
-      "source_location": "L8",
-=======
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
-      "source_location": "L10",
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
+      "source_location": "L7",
       "weight": 1,
       "_src": "common",
       "_tgt": "common_buildmangaurl",
@@ -7141,13 +7336,8 @@
       "target": "common_normalizeurl",
       "relation": "contains",
       "confidence": "EXTRACTED",
-<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
-      "source_location": "L12",
-=======
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
-      "source_location": "L19",
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
+      "source_location": "L11",
       "weight": 1,
       "_src": "common",
       "_tgt": "common_normalizeurl",
@@ -7182,13 +7372,8 @@
       "target": "common_extracttext",
       "relation": "contains",
       "confidence": "EXTRACTED",
-<<<<<<< HEAD
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\Common.ts",
-      "source_location": "L37",
-=======
-      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\Common.ts",
-      "source_location": "L85",
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
+      "source_location": "L36",
       "weight": 1,
       "_src": "common",
       "_tgt": "common_extracttext",
@@ -7236,7 +7421,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L46",
+      "source_location": "L40",
       "weight": 1,
       "_src": "mangafreak",
       "_tgt": "mangafreak_parsemangadetails",
@@ -7248,7 +7433,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L117",
+      "source_location": "L111",
       "weight": 1,
       "_src": "mangafreak",
       "_tgt": "mangafreak_parsechapterlist",
@@ -7260,7 +7445,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L175",
+      "source_location": "L169",
       "weight": 1,
       "_src": "mangafreak",
       "_tgt": "mangafreak_mangafreak",
@@ -7272,7 +7457,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\lib\\MangaFreak\\MangaFreak.js",
-      "source_location": "L127",
+      "source_location": "L122",
       "weight": 1,
       "_src": "mangafreak_mangafreak",
       "_tgt": "mangafreak_mangafreak_constructor",
@@ -7284,7 +7469,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L181",
+      "source_location": "L175",
       "weight": 1,
       "_src": "mangafreak_mangafreak",
       "_tgt": "mangafreak_mangafreak_getmangadetails",
@@ -7296,7 +7481,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L192",
+      "source_location": "L191",
       "weight": 1,
       "_src": "mangafreak_mangafreak",
       "_tgt": "mangafreak_mangafreak_getchapters",
@@ -7308,7 +7493,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L203",
+      "source_location": "L207",
       "weight": 1,
       "_src": "mangafreak_mangafreak",
       "_tgt": "mangafreak_mangafreak_getchapterdetails",
@@ -7320,7 +7505,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L212",
+      "source_location": "L292",
       "weight": 1,
       "_src": "mangafreak_mangafreak",
       "_tgt": "mangafreak_mangafreak_getsearchresults",
@@ -7332,7 +7517,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L323",
+      "source_location": "L404",
       "weight": 1,
       "_src": "mangafreak_mangafreak",
       "_tgt": "mangafreak_mangafreak_gethomepagesections",
@@ -7344,7 +7529,7 @@
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L189",
+      "source_location": "L184",
       "weight": 1,
       "_src": "mangafreak_mangafreak_getmangadetails",
       "_tgt": "mangafreak_parsemangadetails",
@@ -7855,13 +8040,36 @@
       "confidence_score": 1
     },
     {
-<<<<<<< HEAD
+      "source": "weebcentral",
+      "target": "weebcentral_parseseriesid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
+      "source_location": "L34",
+      "weight": 1,
+      "_src": "weebcentral",
+      "_tgt": "weebcentral_parseseriesid",
+      "confidence_score": 1
+    },
+    {
+      "source": "weebcentral",
+      "target": "weebcentral_parsestatus",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
+      "source_location": "L49",
+      "weight": 1,
+      "_src": "weebcentral",
+      "_tgt": "weebcentral_parsestatus",
+      "confidence_score": 1
+    },
+    {
       "source": "weebcentral",
       "target": "weebcentral_parsemangadetails",
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L38",
+      "source_location": "L70",
       "weight": 1,
       "_src": "weebcentral",
       "_tgt": "weebcentral_parsemangadetails",
@@ -7873,7 +8081,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L98",
+      "source_location": "L126",
       "weight": 1,
       "_src": "weebcentral",
       "_tgt": "weebcentral_weebcentral",
@@ -7885,7 +8093,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\lib\\WeebCentral\\WeebCentral.js",
-      "source_location": "L80",
+      "source_location": "L99",
       "weight": 1,
       "_src": "weebcentral_weebcentral",
       "_tgt": "weebcentral_weebcentral_constructor",
@@ -7897,7 +8105,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L104",
+      "source_location": "L132",
       "weight": 1,
       "_src": "weebcentral_weebcentral",
       "_tgt": "weebcentral_weebcentral_getmangadetails",
@@ -7909,7 +8117,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L115",
+      "source_location": "L142",
       "weight": 1,
       "_src": "weebcentral_weebcentral",
       "_tgt": "weebcentral_weebcentral_getchapters",
@@ -7921,7 +8129,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L119",
+      "source_location": "L146",
       "weight": 1,
       "_src": "weebcentral_weebcentral",
       "_tgt": "weebcentral_weebcentral_getchapterdetails",
@@ -7933,7 +8141,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L126",
+      "source_location": "L155",
       "weight": 1,
       "_src": "weebcentral_weebcentral",
       "_tgt": "weebcentral_weebcentral_getsearchresults",
@@ -7945,7 +8153,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L174",
+      "source_location": "L193",
       "weight": 1,
       "_src": "weebcentral_weebcentral",
       "_tgt": "weebcentral_weebcentral_gethomepagesections",
@@ -7957,15 +8165,13 @@
       "relation": "calls",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L112",
+      "source_location": "L139",
       "weight": 1,
       "_src": "weebcentral_weebcentral_getmangadetails",
       "_tgt": "weebcentral_parsemangadetails",
       "confidence_score": 1
     },
     {
-=======
->>>>>>> e4fbf989a490af38586f2cded20453aa8597fc5b
       "source": "common_buildmangaurl",
       "target": "common_normalizemangaid",
       "relation": "calls",
@@ -7983,7 +8189,7 @@
       "relation": "imports_from",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L16",
+      "source_location": "L15",
       "weight": 1,
       "_src": "mangafreak",
       "_tgt": "languages",
@@ -7995,7 +8201,7 @@
       "relation": "imports_from",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\MangaFreak\\MangaFreak.ts",
-      "source_location": "L17",
+      "source_location": "L16",
       "weight": 1,
       "_src": "mangafreak",
       "_tgt": "common",
@@ -8067,7 +8273,7 @@
       "relation": "imports_from",
       "confidence": "EXTRACTED",
       "source_file": "C:\\Users\\adinj\\Documents\\githubprojects\\paperback_dev\\extensions-main-promises\\src\\WeebCentral\\WeebCentral.ts",
-      "source_location": "L13",
+      "source_location": "L14",
       "weight": 1,
       "_src": "weebcentral",
       "_tgt": "common",

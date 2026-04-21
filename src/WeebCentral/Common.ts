@@ -1,5 +1,4 @@
 export const BASE_URL = "https://weebcentral.com";
-export const WEBSITE_BASE_URL = `${BASE_URL}/`;
 
 export const buildSearchUrl = (query: string): string => {
     return `${BASE_URL}/search/data?text=${encodeURIComponent(query.trim())}`;
@@ -28,7 +27,7 @@ export const normalizeUrl = (value?: string | null): string | undefined => {
     }
 
     try {
-        return new URL(trimmed, WEBSITE_BASE_URL).toString();
+        return new URL(trimmed, BASE_URL).toString();
     } catch {
         return undefined;
     }
