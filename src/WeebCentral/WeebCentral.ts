@@ -3,6 +3,7 @@ import {
     ChapterDetails,
     ContentRating,
     HomeSection,
+    LanguageCode,
     Manga,
     MangaTile,
     MangaStatus,
@@ -34,12 +35,6 @@ export const WeebCentralInfo: SourceInfo = {
 const parseSeriesId = (value?: string): string | undefined => {
     if (!value) {
         return undefined;
-    }
-
-    // Extract ID and Slug from /series/ID/SLUG
-    const match = value.match(/\/series\/([^/?#]+)\/([^/?#]+)/);
-    if (match) {
-        return `${match[1]}/${match[2]}`;
     }
 
     const simpleMatch = value.match(/\/series\/([^/?#]+)/);
@@ -78,7 +73,7 @@ const parseMangaDetails = ($: CheerioAPI, mangaId: string): Manga => {
     const genres: string[] = [];
 
     // The site uses a list of items for metadata
-    $("ul li, div.flex.flex-col").each((_, element) => {
+    $("ul li").each((_, element) => {
         const text = $(element).text();
         const label = extractText($(element).find("strong, span").first().text()).toLowerCase();
         
@@ -94,7 +89,7 @@ const parseMangaDetails = ($: CheerioAPI, mangaId: string): Manga => {
             $(element).find("a").each((_, a) => {
                 artists.push(extractText($(a).text()));
             });
-        } else if (label.includes("tags") || label.includes("genres")) {
+        } else if (label.includes("tags") || label.includes("genres") || label.includes("type")) {
             $(element).find("a").each((_, a) => {
                 genres.push(extractText($(a).text()));
             });
@@ -139,16 +134,67 @@ export class WeebCentral extends Source {
         return parseMangaDetails($, mangaId);
     }
 
-    override async getChapters(_mangaId: string): Promise<Chapter[]> {
-        return []; // Phase 1: Not implemented
+    override async getChapters(mangaId: string): Promise<Chapter[]> {
+        const request = createRequestObject({
+            url: `${BASE_URL}/series/${mangaId}/full-chapter-list`,
+            method: "GET",
+        });
+
+        const response = await this.requestManager.schedule(request, 1);
+        const $ = this.cheerio.load(typeof response.data === "string" ? response.data : "");
+        const chapters: Chapter[] = [];
+
+        $("a[href*='/chapters/']").each((_, element) => {
+            const a = $(element);
+            const rawHref = a.attr("href");
+            const id = rawHref?.split("/").pop()?.split("?")[0];
+            
+            if (id) {
+                const title = extractText(a.find("span.flex > span").first().text());
+                const timeText = a.find("time").attr("datetime");
+                const time = timeText ? new Date(timeText) : undefined;
+                
+                // Try to parse chapter number from title or ID
+                const chapNumMatch = title.match(/Chapter\s+(\d+(\.\d+)?)/i) ?? id.match(/chapter-(\d+(\.\d+)?)/i);
+                const chapNum = chapNumMatch ? parseFloat(chapNumMatch[1] ?? "0") : 0;
+
+                chapters.push(createChapter({
+                    id,
+                    mangaId,
+                    name: title || `Chapter ${chapNum || id}`,
+                    langCode: LanguageCode.ENGLISH,
+                    time: time && !isNaN(time.getTime()) ? time : undefined,
+                    chapNum: chapNum
+                }));
+            }
+        });
+
+        return chapters;
     }
 
-    override async getChapterDetails(_mangaId: string, _chapterId: string): Promise<ChapterDetails> {
+    override async getChapterDetails(mangaId: string, chapterId: string): Promise<ChapterDetails> {
+        const request = createRequestObject({
+            url: `${BASE_URL}/chapters/${chapterId}/images?is_prev=False&reading_style=long_strip`,
+            method: "GET",
+        });
+
+        const response = await this.requestManager.schedule(request, 1);
+        const $ = this.cheerio.load(typeof response.data === "string" ? response.data : "");
+        const pages: string[] = [];
+
+        $("img").each((_, element) => {
+            const src = $(element).attr("src");
+            const url = normalizeUrl(src);
+            if (url) {
+                pages.push(url);
+            }
+        });
+
         return createChapterDetails({
-            id: _chapterId,
-            mangaId: _mangaId,
-            pages: [],
-            longStrip: false
+            id: chapterId,
+            mangaId: mangaId,
+            pages,
+            longStrip: true
         });
     }
 
@@ -167,15 +213,17 @@ export class WeebCentral extends Source {
         const $ = this.cheerio.load(typeof response.data === "string" ? response.data : "");
         const tiles: MangaTile[] = [];
 
-        $("article.bg-base-300.flex.gap-4.p-4").each((_, element) => {
+        $("article").each((_, element) => {
             const article = $(element);
             const link = article.find("a[href*='/series/']").first();
             const rawHref = link.attr("href");
             const id = parseSeriesId(rawHref);
 
             if (id) {
-                const titleText = extractText(article.find("a.link.link-hover.font-bold").text());
-                const image = normalizeUrl(article.find("picture img").attr("src"));
+                const titleText = extractText(article.find("a.link.link-hover.font-bold").text()) || 
+                                 extractText(article.find("div:not([class]):last-child").text());
+                const image = normalizeUrl(article.find("picture img").attr("src")) || 
+                             normalizeUrl(article.find("img").attr("src"));
 
                 if (titleText && image) {
                     tiles.push(createMangaTile({
@@ -190,7 +238,54 @@ export class WeebCentral extends Source {
         return createPagedResults({ results: tiles });
     }
 
-    override async getHomePageSections(_sectionCallback: (section: HomeSection) => void): Promise<void> {
-        // Phase 1: Not implemented
+    override async getHomePageSections(sectionCallback: (section: HomeSection) => void): Promise<void> {
+        const sections = [
+            createHomeSection({ id: "popular", title: "Popular Manga", view_more: true }),
+            createHomeSection({ id: "latest", title: "Latest Updates", view_more: true }),
+        ];
+
+        const promises: Promise<void>[] = [];
+
+        for (const section of sections) {
+            sectionCallback(section);
+            const sort = section.id === "popular" ? "Popularity" : "Latest Updates";
+            const request = createRequestObject({
+                url: `${BASE_URL}/search/data?sort=${encodeURIComponent(sort)}&order=Ascending`,
+                method: "GET",
+            });
+
+            promises.push(
+                this.requestManager.schedule(request, 1).then((response) => {
+                    const $ = this.cheerio.load(typeof response.data === "string" ? response.data : "");
+                    const tiles: MangaTile[] = [];
+
+                    $("article").each((_, element) => {
+                        const article = $(element);
+                        const link = article.find("a[href*='/series/']").first();
+                        const id = parseSeriesId(link.attr("href"));
+
+                        if (id) {
+                            const titleText = extractText(article.find("a.link.link-hover.font-bold").text()) || 
+                                             extractText(article.find("div:not([class]):last-child").text());
+                            const image = normalizeUrl(article.find("picture img").attr("src")) || 
+                                         normalizeUrl(article.find("img").attr("src"));
+
+                            if (titleText && image) {
+                                tiles.push(createMangaTile({
+                                    id,
+                                    title: createIconText({ text: titleText }),
+                                    image
+                                }));
+                            }
+                        }
+                    });
+
+                    section.items = tiles.slice(0, 20);
+                    sectionCallback(section);
+                })
+            );
+        }
+
+        await Promise.all(promises);
     }
 }
