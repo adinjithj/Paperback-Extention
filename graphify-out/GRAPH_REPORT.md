@@ -1,11 +1,11 @@
-# Graph Report - .  (2026-04-21)
+# Graph Report - .  (2026-04-23)
 
 ## Corpus Check
-- 30 files · ~0 words
+- 31 files · ~0 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 307 nodes · 457 edges · 24 communities detected
+- 308 nodes · 457 edges · 25 communities detected
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
@@ -123,26 +123,34 @@ Nodes (1): Tracker
 Cohesion: 1
 Nodes (1): Tracker
 
+### Community 24 - "Community 24"
+Cohesion: 1
+Nodes (1): patch-manifest.js
+
 ## Knowledge Gaps
+- **1 isolated node(s):** `patch-manifest.js`
+  These have ≤1 connection - possible missing edges or undocumented components.
 - **Thin community `Community 22`** (2 nodes): `Tracker`, `.constructor()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 - **Thin community `Community 23`** (2 nodes): `Tracker`, `.constructor()`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 24`** (1 nodes): `patch-manifest.js`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `index.js` connect `Community 0` to `Community 2`, `Community 22`, `Community 14`, `Community 6`, `Community 7`, `Community 18`, `Community 12`, `Community 15`, `Community 20`?**
-  _High betweenness centrality (0.144) - this node is a cross-community bridge._
+  _High betweenness centrality (0.143) - this node is a cross-community bridge._
 - **Why does `source.js` connect `Community 1` to `Community 3`, `Community 23`, `Community 16`, `Community 8`, `Community 9`, `Community 19`, `Community 13`, `Community 17`, `Community 21`?**
-  _High betweenness centrality (0.144) - this node is a cross-community bridge._
+  _High betweenness centrality (0.143) - this node is a cross-community bridge._
 - **Why does `Common.ts` connect `Community 5` to `Community 10`, `Community 4`, `Community 11`?**
   _High betweenness centrality (0.035) - this node is a cross-community bridge._
+- **What connects `patch-manifest.js` to the rest of the system?**
+  _1 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.07 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
   _Cohesion score 0.07 - nodes in this community are weakly interconnected._
 - **Should `Community 2` be split into smaller, more focused modules?**
-  _Cohesion score 0.07 - nodes in this community are weakly interconnected._
-- **Should `Community 3` be split into smaller, more focused modules?**
   _Cohesion score 0.07 - nodes in this community are weakly interconnected._

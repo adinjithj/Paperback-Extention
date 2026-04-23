@@ -9,6 +9,7 @@
     "test": "node_modules/.bin/mocha --timeout 300000 -r ts-node/register src/**/*.test.ts",
     "coverage": "nyc -r lcov -e .ts -x \"*.test.ts\" npm run test",
     "bundle": "paperback bundle",
+    "bundle:compat": "npm run bundle && node scripts/patch-manifest.js",
     "serve": "paperback serve"
   },
   "author": "Faizan Durrani",
